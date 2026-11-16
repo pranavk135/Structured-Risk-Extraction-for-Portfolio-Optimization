@@ -1,0 +1,893 @@
+Item 1A.
+Risk Factors
+21
+Item 1B.
+Unresolved Staff Comments
+33
+Item 1C.
+Cybersecurity
+33
+Item 2.
+Properties
+34
+Item 3.
+Legal Proceedings
+35
+Item 4.
+Mine Safety Disclosures
+35
+PART II
+Item 5.
+Market for Registrants' Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+35
+Item 6.
+R
+e
+served
+35
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+36
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+55
+Item 8.
+Financial Statements and Supplementary Data
+56
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+113
+Item 9A.
+Controls and Procedures
+113
+Item 9B.
+Other Information
+113
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+113
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+114
+Item 11.
+Executive Compensation
+114
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+114
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+114
+Item 14.
+Principal Account
+ant
+Fees and Services
+115
+PART IV
+Item 15.
+Exhibits
+and
+Financial Statement Schedules
+116
+Item 16.
+Form 10-K Summary
+124
+Signatures
+125
+FORWARD-LOOKING STATEMENTS
+This report includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any statements that express, or involve discussions as to, expectations, beliefs, plans, objectives, assumptions, strategies, future events or performance (often, but not always, through the use of words or phrases such as may result, are expected to, will continue, is anticipated, believe, will, could, should, would, estimated, may, plan, potential, future, projection, goals, target, outlook, predict and intend or words of similar meaning) are not statements of historical facts and may be forward looking. Forward-looking statements involve estimates, assumptions and uncertainties. Accordingly, any such statements are qualified in their entirety by reference to, and are accompanied by, important factors included in Part I, Item 1A. Risk Factors (in addition to any assumptions and other factors referred to specifically in connection with such forward-looking statements) that could have a significant impact on NEE's and/or FPL's operations and financial results, and could cause NEE's and/or FPL's actual results to differ materially from those contained or implied in forward-looking statements made by or on behalf of NEE and/or FPL in this combined Form 10-K, in presentations, on their respective websites, in response to questions or otherwise.
+Any forward-looking statement speaks only as of the date on which such statement is made, and NEE and FPL undertake no obligation to update any forward-looking statement to reflect events or circumstances, including, but not limited to, unanticipated events, after the date on which such statement is made, unless otherwise required by law. New factors emerge from time to time and it is not possible for management to predict all of such factors, nor can it assess the impact of each such factor on the business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained or implied in any forward-looking statement.
+3
+Table of Content
+s
+PART I
+Item 1. Business
+OVERVIEW
+NEE is one of the largest electric power and energy infrastructure companies in North America and a leader in the renewable energy industry. NEE has two principal businesses, FPL and NEER. FPL is the largest electric utility in the state of Florida and one of the largest electric utilities in the U.S. FPL’s strategic focus is centered on investing in generation, transmission and distribution facilities to deliver on its value proposition of low customer bills, high reliability, outstanding customer service and clean energy for the benefit of its approximately
+5.9 million
+customer accounts. NEER is the world's largest generator of renewable energy from the wind and sun, as well as a world leader in battery storage. NEER’s strategic focus is centered on the development, construction and operation of long-term contracted assets throughout the U.S. and Canada, primarily consisting of clean energy assets, such as renewable generation facilities, and electric transmission facilities, as well as providing other clean energy solutions to its customers.
+In January 2019, NEE acquired Gulf Power Company, a rate-regulated electric utility engaged in the generation, transmission, distribution and sale of electric energy in northwest Florida. On January 1, 2021, FPL and Gulf Power Company merged, with FPL as the surviving entity. However, during 2021, FPL continued to be regulated as two separate ratemaking entities in the former service areas of FPL and Gulf Power Company. Effective January 1, 2022, FPL became regulated as one electric ratemaking entity with new unified rates and tariffs (see FPL – FPL Regulation – FPL Electric Rate Regulation – Base Rates – Base Rates Effective January 2022 through December 2025).
+As described in more detail in the following sections, NEE seeks to create value in its two principal businesses by meeting its customers' needs more economically and more reliably than its competitors. NEE's strategy has resulted in profitable growth over sustained periods at both FPL and NEER. Management seeks to grow each business (see Note 15 – Commitments) in a manner consistent with the varying opportunities available to it; however, management believes that the diversification and balance represented by FPL and NEER is a valuable characteristic of the enterprise and recognizes that each business contributes to NEE's financial strength in different ways. FPL and NEER share a common platform with the objective of lowering costs, creating efficiencies and encouraging innovative ideas for their businesses. NEE and its subsidiaries, with employees totaling approximately 16,800 as of December 31, 2023, continue to develop and implement enterprise-wide initiatives focused on improving productivity, process effectiveness and quality.
+On August 16, 2022, the Inflation Reduction Act (IRA) was signed into law which, among other things, extends the period for wind and solar tax credits, expands the tax credits to support a broader range of renewable technologies and allows renewable energy tax credits to be transferred. See NEER – Clean Energy and Other Operations – Clean Energy – Policy Incentives for Renewable Energy Projects. NEE believes the IRA provides long-term visibility and supports the growth of its businesses.
+NEE's reportable segments for financial reporting purposes are FPL and NEER (see Note 16). NEECH, a wholly owned subsidiary of NEE, owns and provides funding for NEE's operating subsidiaries, other than FPL and its subsidiaries. NEP, an affiliate of NextEra Energy Resources, acquires, manages and owns contracted clean energy assets with stable, long-term cash flows. See NEER section below for further discussion of NEP. The following diagram depicts NEE's simplified ownership structure:
+4
+Table of Content
+s
+FPL
+FPL is a rate-regulated electric utility engaged primarily in the generation, transmission, distribution and sale of electric energy in Florida. FPL is the largest electric utility in the state of Florida and one of the largest electric utilities in the U.S. At December 31, 2023, FPL had 33,276 MW of net generating capacity, approximately 90,000 circuit miles of transmission and distribution lines and 883 substations. FPL provides service to its electric customers through an integrated transmission and distribution system that links its generation facilities to its customers.
+FPL serves more than 12 million people through approximately 5.9 million customer accounts. The following map shows FPL's service areas and plant locations as of February 16, 2024, which cover most of the east and lower west coasts of Florida and are in ten counties throughout northwest Florida (see FPL Sources of Generation below).
+5
+Table of Content
+s
+CUSTOMERS AND REVENUE
+FPL's primary source of operating revenues is from its retail customer base; it also serves a limited number of wholesale customers within Florida. The percentage of FPL's operating revenues and customer accounts
+by customer class were as follows:
+For both retail and wholesale customers, the prices (or rates) that FPL may charge are approved by regulatory bodies, by the FPSC in the case of retail customers and by the FERC in the case of wholesale customers. In general, under U.S. and Florida law, regulated rates are intended to cover the cost of providing service, including a reasonable rate of return on invested capital. Since the regulatory bodies have authority to determine the relevant cost of providing service and the appropriate rate of return on capital employed, there can be no guarantee that FPL will be able to earn any particular rate of return or recover all of its costs through regulated rates. See FPL Regulation below.
+FPL seeks to maintain attractive rates for its customers. Since rates are largely cost-based, maintaining low rates requires a strategy focused on developing and maintaining a low-cost position, including the implementation of ideas generated from cost savings initiatives.
+FRANCHISE AGREEMENTS AND COMPETITION
+FPL's service to its electric retail customers is provided primarily under franchise agreements negotiated with municipalities or counties. During the term of a franchise agreement, which is typically 30 years, the municipality or county agrees not to form its own utility,
+and FPL has the right to offer electric service to residents. At December 31, 2023, FPL held 226 franchise agreements with various municipalities and counties in Florida with varying expiration dates through 2053. These franchise agreements cover the vast majority of FPL's retail customer base in Florida. At December 31, 2023, FPL also provided service to customers in 10 other municipalities and to 27
+unincorporated areas within its service area without franchise agreements pursuant to the general obligation to serve as a public utility. FPL relies upon Florida law for access to public rights of way.
+Because any customer may elect to provide their own electric services, FPL effectively must compete for an individual customer's business. As a practical matter, few customers provide their own service at the present time since FPL's cost of service is lower than the cost of self-generation for a significant majority of customers. Changing technology (particularly increasing efficiency of solar power generation), tax incentives, economic conditions, regulatory changes, increasing cost-competitiveness of rooftop solar and batteries and other factors could alter the favorable relative cost position that FPL currently enjoys; however, FPL seeks as a matter of strategy to ensure that it delivers superior value, in the form of comparatively low customer bills, high reliability, outstanding customer service and clean energy.
+In addition to self-generation by residential, commercial and industrial customers, FPL also faces competition from other suppliers of electrical energy to wholesale and industrial customers and from alternative energy sources. In 2023, 2022 and 2021, operating revenues from wholesale and ind
+ustrial electric customers combined represented approximately
+5%, 7% and 6%, respectively, of FPL's total operating revenues.
+For the building of new steam and solar generating capacity of 75 MW or greater, the FPSC requires investor-owned electric utilities, including FPL, to issue a request for proposal (RFP) except when the FPSC determines that an exception from the RFP process is in the public interest. The RFP process allows independent power producers and others to bid to supply the new generating capacity. If a bidder has the most cost-effective alternative, meets other criteria such as financial viability and demonstrates adequate expertise and experience in building and/or operating generating capacity of the type proposed, the investor-owned electric utility would seek to negotiate a PPA with the selected bidder and request that the FPSC approve the terms of the PPA and, if appropriate, provide the required authorization for the construction of the bidder's generating capacity.
+6
+Table of Content
+s
+FPL
+SOURCES OF GENERATION
+At December 31, 2023, FPL's resources for serving load consisted of approximately 33,520 MW of net generating capacity, of which
+33,276
+MW were from FPL-owned facilities and
+244
+MW were available through PPAs. FPL owned and operated
+44
+units with generating capacity of 24,254 MW that primarily use natural gas and 66 solar generation facilities with generating capacity totaling 4,803 MW. In addition, FPL owned, or had undivided interests in, and operated 4 nuclear units with net generating capacity totaling 3,502 MW (see Nuclear Operations below) and had joint ownership interests in 3 coal units located in Mississippi and Georgia it did not operate with net generating capacity totaling 717 MW. FPL retired its share of two coal units in Mississippi in January 2024 and the remaining one in Georgia is expected to be retired in 2028. See Note 7 – Jointly-Owned Electric Plants regarding the retirement of these plants. FPL also develops and constructs battery storage projects, which when combined with its solar projects, serve to enhance its ability to meet customer needs for a nearly firm generation source. At December 31, 2023, FPL had 469 MW of battery storage capacity that delivers energy to the transmission system. FPL customer usage and operating revenues are typically higher during the summer months, largely due to the prevalent use of air conditioning in its service area. Occasionally, unusually cold temperatures during the winter months result in significant increases in electricity usage for short periods of time.
+Through 2025, FPL plans to add new solar generation with cost recovery through base rates, either through a Solar Base Rate Adjustment (SoBRA) or SolarTogether
+®
+(a voluntary community solar program that gives FPL electric customers an opportunity to participate directly in the expansion of solar energy where participants pay a fixed monthly subscription charge and receive credits on their related monthly customer bill). FPL placed 894 MW of solar generating capacity in service in January 2024 and is currently in the process of constructing an additional 1,341 MW and 894 MW of solar generating capacity, which is expected to be placed in service in 2024 and in 2025, respectively (see FPL Regulation – FPL Electric Rate Regulation – Base Rates – Base Rates Effective January 2022 through December 2025 below).
+Fuel Sources
+FPL relies upon a mix of fuel sources for its generation facilities, the ability of some of its generation facilities to operate on both natural gas and low sulfur diesel, and on purchased power to maintain the flexibility to achieve a more economical fuel mix in order to respond to market and industry
+developments. See discussion of planned solar generation additions above. In 2023, FPL placed a hydrogen facility in service that blends green hydrogen with natural gas at an existing natural gas generation facility.
+*approximately 66% has dual fuel capability
+Significant Fuel and Transportation Contracts.
+At December 31, 2023, FPL had the following significant fuel and transportation contracts in place:
+•
+firm transportation contracts with ten different transportation suppliers for natural gas pipeline capacity for an aggregate maximum delivery quantity of 2,836,000 MMBtu/day with expiration dates through 2042
+(see Note 15 – Contracts);
+•
+several contracts for the supply of uranium and the conversion, enrichment and fabrication of nuclear fuel with expiration dates through 2037; and
+•
+short- and medium-term natural gas supply contracts to provide a portion of FPL's anticipated needs for natural gas,
+7
+Table of Content
+s
+with the remainder of FPL's natural gas requirements being purchased in the spot market.
+Nuclear Operations
+At December 31, 2023, FPL owned, or had undivided interests in, and operated the four nuclear units in Florida discussed below. FPL's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including inspections, repairs and certain other modifications. Scheduled nuclear refueling outages require the unit to be removed from service for variable lengths of time.
+Facility
+Net Generating Capacity
+(MW)
+Beginning of Next
+Scheduled Refueling Outage
+Operating License
+Expiration Date
+St. Lucie Unit No. 1
+981
+March 2024
+2036
+(a)
+St. Lucie Unit No. 2
+840
+(b)
+August 2024
+2043
+(a)
+Turkey Point Unit No. 3
+837
+October 2024
+2032
+(c)
+Turkey Point Unit No. 4
+844
+March 2025
+2033
+(c)
+______________________
+(a) In 2021, FPL filed an application with the NRC to renew both St. Lucie operating licenses for an additional 20 years. License renewals are pending.
+(b) Excludes 147 MW operated by FPL but owned by non-affiliates.
+(c) In 2022, FPL filed a site-specific environmental impact statement with the NRC related to the previously approved 20-year renewal application for both Turkey Point operating licenses. Approval of the additional 20 years of operations is pending.
+NRC regulations require FPL to submit a plan for decontamination and decommissioning five years before the projected end of plant operation. If the license renewals are approved by the NRC, FPL's plans provide for St. Lucie Unit No. 1 to be shut down in 2056 with decommissioning activities to be integrated with the dismantlement of St. Lucie Unit No. 2 commencing in 2063. If the NRC approves an additional 20 years of operations, FPL's plans provide for the dismantlement of Turkey Point Units Nos. 3 and 4 with decommissioning activities commencing in 2052 and 2053, respectively.
+FPL's nuclear facilities use both on-site storage pools and dry storage casks to store spent nuclear fuel generated by these facilities, which are expected to provide sufficient storage of spent nuclear fuel that is generated at these facilities through license expiration, as well as through any pending license extensions.
+FPL ENERGY MARKETING AND TRADING
+FPL's Energy Marketing & Trading division (EMT) buys and sells wholesale energy commodities, such as natural gas, low sulfur diesel, electricity and renewable energy credits (RECs) from certain FPL solar generation assets. EMT procures natural gas and low sulfur diesel for FPL's use in power generation and sells excess natural gas, low sulfur diesel and electricity. EMT also uses derivative instruments (primarily swaps, options and forwards) to manage the physical and financial risks inherent in the purchase and sale of fuel and electricity. Substantially all of the results of EMT's activities are passed through to customers in the fuel or capacity clauses. See Management's Discussion – Energy Marketing and Trading and Market Risk Sensitivity and Note 3.
+FPL REGULATION
+FPL's operations are subject to regulation by a number of federal, state and other organizations, including, but not limited to, the following:
+•
+the FPSC, which has jurisdiction over retail rates, service area, issuances of securities, and planning, siting and construction of facilities, among other things;
+•
+the FERC, which oversees the acquisition and disposition of electric generation, transmission and other facilities, transmission of electricity and natural gas in interstate commerce, proposals to build and operate interstate natural gas pipelines and storage facilities, and wholesale purchases and sales of electric energy, among other things;
+•
+the NERC, which, through its regional entities, establishes and enforces mandatory reliability standards, subject to approval by the FERC, to ensure the reliability of the U.S. electric transmission and generation system and to prevent major system blackouts;
+•
+the NRC, which has jurisdiction over the operation of nuclear power plants through the issuance of operating licenses, rules, regulations and orders; and
+•
+the EPA, which has the responsibility to maintain and enforce national standards under a variety of environmental laws, in some cases delegating authority to state agencies. The EPA also works with industries and all levels of government, including federal and state governments, in a wide variety of voluntary pollution prevention programs and energy conservation efforts.
+8
+Table of Content
+s
+FPL Electric Rate Regulation
+The FPSC sets rates at a level that is intended to allow the utility the opportunity to collect from retail customers total revenues (revenue requirements) equal to its cost of providing service, including a reasonable rate of return on invested capital. To accomplish this, the FPSC uses various ratemaking mechanisms, including, among other things, base rates and cost recovery clauses. Although FPL and Gulf Power Company merged effective January 1, 2021, FPL continued to be regulated as two separate rate making entities until January 1, 2022 when new unified rates and tariffs became effective for the combined utility system (including the former Gulf Power Company service area). See Base Rates Effective January 2022 through December 2025 below.
+Base Rates
+.
+In general, the basic costs of providing electric service, other than fuel and certain other costs, are recovered through base rates, which are designed to recover the costs of constructing, operating and maintaining the utility system. These basic costs include O&M expenses, depreciation and taxes, as well as a return on investment in assets used and useful in providing electric service (rate base). At the time base rates are established, the allowed rate of return on rate base approximates the FPSC's determination of the utility's estimated weighted-average cost of capital, which
+includes its costs for outstanding debt and an allowed return on common equity. The FPSC monitors the utility's actual regulatory ROE through a surveillance report that is filed monthly with the FPSC. The FPSC does not provide assurance that any regulatory ROE will be achieved. Base rates are determined in rate proceedings o
+r through negotiated settlements of those proceedings. Proceedings can occur at the initiative of the utility or upon action by the FPSC. Existing base rates remain in effect until new base rates are approved by the FPSC.
+Base Rates Effective January 2022 through December 2025
+– In December 2021, the FPSC issued a final order approving a stipulation and settlement between FPL and several intervenors in FPL's base rate proceeding (2021 rate agreement).
+Key elements of the 2021 rate agreement, which is effective from January 2022 through at least December 2025, include, among other things, the following:
+•
+New retail base rates and charges were established for the combined utility system (including the former Gulf Power Company service area) resulting in the following increases in annualized retail base revenues:
+◦
+$692 million beginning January 1, 2022, and
+◦
+$560 million beginning January 1, 2023.
+•
+In addition, FPL is eligible to receive, subject to conditions specified in the 2021 rate agreement, base rate increases associated with the addition of up to 894 MW annually of new solar generation through the SoBRA mechanism in each of 2024 and 2025, and may carry forward any unused MW in 2024 to 2025. FPL has agreed to an installed cost cap of $1,250 per kW and will be required to demonstrate that these proposed solar facilities are cost effective.
+•
+FPL's authorized regulatory ROE was 10.60%, with a range of 9.70% to 11.70%. However, in the event the average 30-year U.S. Treasury rate was 2.49% or greater over a consecutive six-month period, FPL was authorized to increase the regulatory ROE to 10.80% with a range of 9.80% to 11.80%. During August 2022, this provision was triggered and effective September 1, 2022, FPL's authorized regulatory ROE and ROE range were increased. If FPL's earned regulatory ROE falls below 9.80%, FPL may seek retail base rate relief. If the earned regulatory ROE rises above 11.80%, any party with standing may seek a review of FPL's retail base rates.
+•
+Subject to certain conditions, FPL may amortize, over the term of the 2021 rate agreement, up to $1.45 billion of depreciation reserve surplus, provided that in any year of the 2021 rate agreement FPL must amortize at least enough reserve amount to maintain its minimum authorized regulatory ROE and also may not amortize any reserve amount that would result in an earned regulatory ROE in excess of its maximum authorized regulatory ROE.
+•
+FPL is authorized to expand SolarTogether
+®
+by constructing an additional 1,788 MW of solar generation from 2022 through 2025, such that the total capacity of SolarTogether
+®
+would be 3,278 MW.
+•
+Future storm restoration costs would be recoverable on an interim basis beginning 60 days from the filing of a cost recovery petition, but capped at an amount that produces a surcharge of no more than $4 for every 1,000 kWh of usage on residential bills during the first 12 months of cost recovery. Any additional costs would be eligible for recovery in subsequent years. If storm restoration costs exceed $800 million in any given calendar year, FPL may request an increase to the $4 surcharge. See Note 1 – Storm Funds, Storm Reserves and Storm Cost Recovery.
+•
+If federal or state permanent corporate income tax changes become effective during the term of the 2021 rate agreement, FPL will prospectively adjust base rates after a review by the FPSC. As a result of the enactment of the IRA (see NEER – Clean Energy and Other Operations – Clean Energy – Policy Incentives for Renewable Energy Projects), FPL's customers are expected to save approximately $400 million over the remaining term of the 2021 rate agreement which includes a $36 million one-time refund made in January 2023.
+On September 28, 2023, the Florida Supreme Court ruled on the appeal of the FPSC’s final order regarding FPL’s 2021 rate agreement by Floridians Against Increased Rates, Inc. and, as a group, Florida Rising, Inc., Environmental Confederation of Southwest Florida, Inc. and League of United Latin American Citizens of Florida. The ruling remands the FPSC's order back to the FPSC. While management is unable to predict with certainty the eventual outcome, FPL believes the FPSC's subsequent order will maintain its determination that the 2021 rate agreement is in the public interest and should remain intact.
+Base Rates Effective January 2017 through December 2021
+– From January 2017 to December 2021, FPL operated under a base rate agreement (2016 rate agreement) that provided for, among other things, a regulatory ROE of 10.55%, with a range of 9.60% to 11.60% and, subject to certain conditions, the right to reduce depreciation expense up to $1.25 billion (reserve),
+9
+Table of Content
+s
+provided that in any year of the 2016 rate agreement FPL was required to amortize enough reserve to maintain an earned regulatory ROE within the range of 9.60% to 11.60%.
+Cost Recovery Clauses
+.
+Cost recovery clauses are designed to permit full recovery of certain costs and provide a return on certain assets allowed to be recovered through these clauses. Cost recovery clause costs are recovered through levelized monthly charges per kWh or kW, depending on the customer's rate class. These cost recovery clause charges are calculated annually based on estimated costs and estimated customer usage for the following year, plus or minus true-up adjustments to reflect the estimated over or under recovery of costs for the current and prior periods. An adjustment to the levelized charges may be approved during the course of a year to reflect revised estimates. FPL recovers costs from customers through the following clauses:
+•
+Fuel
+–
+primarily fuel costs, the most significant of the cost recovery clauses in terms of operating revenues (see Note 1
+–
+Rate Regulation);
+•
+Storm Protection Plan
+–
+costs associated with an FPSC-approved transmission and distribution storm protection plan, which includes costs for hardening of overhead transmission and distribution lines, undergrounding of certain distribution lines and
+vegetation management;
+•
+Capacity – primarily certain costs associated with the acquisition of several electric generation facilities (see Note 1 – Rate Regulation) and capacity payments related to PPAs;
+•
+Energy Conservatio
+n
+–
+costs associated with implementing energy conservation programs; and
+•
+Environmental – certain costs of complying with federal, state and local environmental regulations enacted after April 1993 and costs associated with certain of FPL's solar facilities placed in service prior to 2016.
+The FPSC has the authority to disallow recovery of costs that it considers excessive or imprudently incurred. These costs may include, among others, fuel and O&M expenses, the cost of replacing power lost when generation units are unavailable, storm restoration costs and costs associated with the construction or acquisition of new facilities.
+FERC
+The Federal Power Act grants the FERC exclusive ratemaking jurisdiction over wholesale sales of electricity and the transmission of electricity and natural gas in interstate commerce. Pursuant to the Federal Power Act, electric utilities must file for FERC acceptance and maintain tariffs and rate schedules which govern the rates, terms and conditions for the provision of FERC-jurisdictional wholesale power and transmission services. Wholesale power sales tariffs on file at FERC may authorize sales at cost-based rates or, where the seller lacks market power, at market-based rates. The Federal Power Act also gives the FERC authority to certify and oversee an electric reliability organization with authority to establish and independently enforce mandatory reliability standards applicable to all users, owners and operators of the bulk-power system. See NERC below. Electric utilities are subject to accounting, record-keeping and reporting requirements administered by the FERC. The FERC also places certain limitations on transactions between electric utilities and their affiliates.
+NERC
+The NERC has been certified by the FERC as an electric reliability organization. The NERC's mandate is to ensure the reliability and security of the North American bulk-power system through the establishment and enforcement of reliability standards approved by FERC. The NERC's regional entities also enforce reliability standards approved by the FERC. FPL is subject to these reliability standards and incurs costs to ensure compliance with continually heightened requirements, and can incur significant penalties for failing to comply with them.
+FPL Environmental Regulation
+FPL is subject to environmental laws and regulations as described in the NEE Environmental Matters section below. FPL expects to seek recovery through the environmental clause for compliance costs associated with any new environmental laws and regulations.
+FPL HUMAN CAPITAL
+FPL had approximately 9,500
+employees at December 31, 2023, with approximately 31% of these employees represented by the International Brotherhood of Electrical Workers
+(IBEW). The collective bargaining agreements
+have approximate
+ly two- to three-year terms and expire between April 2024 and January 2025.
+10
+Table of Content
+s
+NEER
+NEER,
+comprised of NEE's competitive energy and rate-regulated transmission businesses, is a diversified clean energy business with a strategy that emphasizes the development, construction and operation of long-term contracted assets with a focus on clean energy. NEE reports NextEra Energy Resources and NEET, a rate-regulated transmission business, on a combined basis for segment reporting purposes, and the combined segment is referred to as NEER. The NEER segment owns, develops, constructs, manages and operates electric generation facilities in wholesale energy markets in the U.S. a
+nd Canada and also includes assets and investments in other businesses with a clean energy focus, such as battery storage and renewable fuels. NEER, with appr
+oximately 30,600 MW of total net generating capacity
+at December 31, 2023, is one of the largest wholesale generators of electric power in the U.S., including approximately 30,080 MW of net generating capacity across 41 states and 520 MW of net generating capacity in 4 Canadian provinces
+.
+At
+December 31, 2023
+,
+NEER operates facilities, in which it has partial or full ownership interests, with a total generating capacity of approximately 37,700 MW. NEER primarily sells its capacity and/or energy output through
+long-term power sales agreements with utilities, retail electricity providers, power cooperatives, municipal electric providers and commercial and industrial customers.
+NEER produces the majority of its electricity from clean and renewable sources as described more fully below. In addition, NEER develops and constructs battery storage projects, which when combined with its renewable projects, serve to enhance its ability to meet customers' firm capacity needs, or as standalone facilities. NEER is the world's largest generator of renewable energy from the wind and sun based on 2023 MWh produced on a net generation basis, as well as a world leader in battery storage. The NEER segment also owns, develops, constructs and operates rate-regulated transmission facilities in North America. At December 31, 2023, NEER's rate-regulated transmission facilities and the transmission lines that connect its electric generation facilities to the electric grid are comprised of approximately 330 substations and 3,585 circuit miles of transmission lines.
+NEER also engages in energy-related commodity marketing and trading activities, including entering into financial and physical contracts. These contracts primarily include power and fuel commodities and their related products for the purpose of providing full energy and capacity requirements services, primarily to distribution utilities in certain markets, and offering customized power and fuel and related risk management services to wholesale customers, as well as to hedge the production from NEER's generation assets that is not sold under long-term power supply agreements. In addition, NEER participates in natural gas, natural gas liquids and oil production through operating and non-operating ownership interests, and in pipeline infrastructure construction, management and operations, through either wholly owned subsidiaries or noncontrolling or joint venture interests, hereafter referred to as the gas infrastructure business. NEER also hedges the expected output from its gas infrastructure production assets to protect against price movements.
+NEP
+–
+Through NEP OpCo, NEP acquires, manages and owns contracted clean energy assets with stable long-term cash flows with a focus on renewable energy projects. NEP's assets include energy projects contributed by or acquired from NextEra Energy Resources, or acquired from third parties, as well as ownership interests in a contracted natural gas pipeline acquired from third parties. NEP also invests to repower or expand certain of its assets. NextEra Energy Resources' indirect limited partnership interest in NEP OpCo based on the number of outstanding NEP OpCo common units was approximately 51.4% at December 31, 2023.
+NextEra Energy Resources accounts for its ownership interest in NEP as an equity method investment with its earnings/losses from NEP as equity in earnings
+(losses)
+of equity method investees and accounts for its project sales to NEP as third-party sales in its consolidated financial statements. At December 31, 2023, NEP owned, or had a partial ownership interest in, a portfolio of contracted renewable energy assets consisting of wind, solar and battery storage projects with energy project capacity totaling approximately 10,118 MW and a contracted natural gas pipeline all located in the U.S. as further discussed in Clean Energy and Other Operations.
+NextEra Energy Resources operates essentially all of the energy projects in NEP's portfolio and its ownership interest in the portfolio's capacity was approximately 4,786 MW at December 31, 2023.
+CLEAN ENERGY AND OTHER OPERATIONS
+NEER sells products associated with its generation facilities (energy, capacity, RECs and ancillary services) in competitive markets in regions where those facilities are located. Customer transactions may be supplied from NEER generation facilities or from purchases in the wholesale markets, or from a combination thereof. See Markets and Competition below.
+11
+Table of Content
+s
+NEER's generation and battery storage projects, natural gas pipelines and transmission facilities (including noncontrolling or joint venture interests) at December 31, 2023 are as follows:
+12
+Table of Content
+s
+Clean Energy
+*Primarily natural gas
+Generation Assets
+NEER's portfolio of generation assets primarily consists of generation facilities with long-term power sales agreements for substantially all of their capacity and/or energy output. Information related to contracted generation assets at December 31, 2023 was as follows:
+•
+represented approximately 28,759 MW of total net generating capacity;
+•
+weighted-average remaining contract term of the power sales agreements, including the remaining life of the PTCs associated with repowered wind facilities, of approximately 15 years, based on forecasted contributions to earnings and forecasted amounts of electricity produced by the repowered wind facilities; and
+•
+several contracts for the supply of uranium and the conversion, enrichment and fabrication of nuclear fuel for all nuclear units with expiration dates through 2033 (see Note 15 – Contracts).
+NEER's merchant generation assets primarily consist of generation facilities that do not have long-term power sales agreements to sell their capacity and/or energy output and therefore require active marketing and hedging. Merchant generation assets at December 31, 2023 represented approximately 1,842 MW of total net generating capacity, including 805 MW from nuclear generation and 1,032 MW from other peak generation facilities, and are primarily located in the Northeast region of the U.S. NEER utilizes swaps, options, futures and forwards to lock in pricing and manage the commodity price risk inherent in power sales and fuel purchases.
+13
+Table of Content
+s
+NEER Generation Assets Fuel/Technology Mix
+During 2023, NextEra Energy Resources generated approximately 96 million megawatt hours utilizing the following mix of fuel
+sources for generation facilities in which it has an ownership interest:
+*Primarily natural gas
+Wind Facilities
+•
+located in 23 states in the U.S. and 4 provinces in Canada;
+•
+operated a total generating capacity of approximately 24,970 MW at December 31, 2023;
+•
+ownership interests in a total net generating capacity of approximately 20,147 MW at December 31, 2023;
+◦
+essentially all MW are from contracted wind assets located primarily throughout Texas and the West and Midwest
+regions of the U.S. and Canada;
+◦
+added approximately 1,651 MW of new generating capacity
+in the U.S. in 2023 and sold assets to NEP totaling approximately 292 MW (see Note 1
+–
+Disposal of Businesses/Assets and
+Sale of Noncontrolling Ownership Interests
+).
+Solar Facilities
+•
+located in 31 states in the U.S.;
+•
+operated photovoltaic and solar thermal facilities with a total generating capacity of approximately 7,650 MW at December 31, 2023;
+•
+ownership interests in solar facilities with a total net generating capacity of approximately 5,856 MW at December 31, 2023;
+◦
+essentially all MW are from contracted solar facilities located primarily throughout the West and South regions of the U.S.;
+◦
+added approximately 2,073 MW of generating capacity in the U.S. in 2023 and sold assets to NEP totaling approximately 122 MW (see Note 1
+–
+Disposal of Businesses/Assets and
+Sale of Noncontrolling Ownership Interests
+).
+Nuclear Facilities
+At December 31, 2023, NextEra Energy Resources was the sole owner of the two Point Beach nuclear units shown in the table below and was the largest joint owner of the Seabrook nuclear facility shown in the table below. NEER's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including inspections, repairs and certain other modifications. Scheduled nuclear refueling outages require the unit to be removed from service for variable lengths of time.
+14
+Table of Content
+s
+Facility
+Location
+Net Generating Capacity
+(MW)
+Portfolio
+Category
+Beginning of Next Scheduled
+Refueling Outage
+Operating License
+Expiration Date
+Seabrook
+New Hampshire
+1,102
+(a)
+Merchant
+(b)
+October 2024
+2050
+Point Beach Unit No. 1
+Wisconsin
+595
+Contracted
+(c)
+March 2025
+2030
+(d)
+Point Beach Unit No. 2
+Wisconsin
+595
+Contracted
+(c)
+October 2024
+2033
+(d)
+______________________
+(a) Excludes 147 MW operated by NEER but owned by non-affiliates.
+(b) Includes 297 MW sold under a long-term contract.
+(c) NEER sells all of the output of Point Beach Units Nos. 1 and 2 under long-term contracts through their current operating license expiration dates.
+(d) In 2020, NEER filed an application with the NRC to renew both Point Beach operating licenses for an additional 20 years. License renewals are pending.
+NEER is responsible for all nuclear unit operations and the ultimate decommissioning of the nuclear units, the cost of which is shared on a pro-rata basis by the joint owners with respect to the Seabrook unit. NRC regulations require plant owners to submit a plan for decontamination and decommissioning five years before the projected end of plant operation. NEER's nuclear facilities use both on-site storage pools and dry storage casks to store spent nuclear fuel generated by these facilities, which, based on existing regulations, are expected to provide sufficient storage of spent nuclear fuel that is generated at these facilities through current license expiration, as well as through any pending license extensions.
+NEER also maintains an approximately 70% interest in Duane Arnold, a nuclear facility located in Iowa that ceased operations in August 2020. NEER submitted a site-specific cost estimate and plan for decontamination and decommissioning to the NRC. All spent nuclear fuel housed onsite is in long-term dry storage until the DOE is able to take possession. NEER estimates that the cost of decommissioning Duane Arnold is fully funded and expects completion by approximately 2080.
+Other Clean Energy
+NEER's portfolio also includes assets and investments in other businesses with a clean energy focus, such as battery storage and renewable fuels. At December 31, 2023, NextEra Energy Resources had net
+ownership interests in approximately 2,624 MW of battery storage capacity.
+In addition, NextEra Energy Resources owns, or has a partial ownership interest in, a portfolio of 29 biogas projects, one of which is an operating renewable natural gas facility and the others of which are primarily operating landfill gas-to-electric facilities.
+Policy Incentives for Renewable Energy Projects
+U.S. federal, state and local governments have established various incentives to support the development of renewable energy projects. These incentives include accelerated tax depreciation, PTCs, ITCs, cash grants, tax abatements and RPS programs. Pursuant to the U.S. federal Modified Accelerated Cost Recovery System, wind and solar generation facilities are depreciated for tax purposes over a five-year period even though the useful life of such facilities is generally much longer than five years.
+Owners of wind and solar facilities are eligible to claim an income tax credit (the PTC, or an ITC in lieu of the PTC) upon initially achieving commercial operation. This incentive was created under the Energy Policy Act of 1992 and has been extended several times for wind (the previous PTC for solar expired in 2006). The IRA expanded the PTC to include solar generation facilities and extended the 100% PTC and the 30% ITC to wind and solar generation facilities that start construction before the later of 2034 or the end of the calendar year following the year in which greenhouse gas emissions from U.S. electric generation are reduced by 75% from 2022 levels (phaseout). Accordingly, owners of wind and solar generation facilities placed in service in 2022 or later are eligible to claim a PTC (or an ITC in lieu of the PTC) upon initially achieving commercial operation. The PTC is determined based on the amount of electricity produced by the facility during the first ten years of commercial operation. Alternatively, an ITC equal to 30% of the cost of the facility may be claimed in lieu of the PTC. A facility must also meet certain labor requirements to qualify for the 100% PTC or 30% ITC rate or construction must have started on the facility before January 29, 2023. In addition, the PTC is increased by 10% and the ITC rate is increased by 10 percentage points for facilities that satisfy certain tax credit enhancement requirements. Retrofitted wind and solar generation facilities may qualify for a PTC or an ITC if the cost basis of the new investment is at least 80% of the retrofitted facility’s total fair value.
+In addition, the IRA expanded the 30% ITC to include storage projects placed in service after 2022 (previously, such projects qualified only if they were connected to and charged by a renewable generation facility that claimed the ITC) as well as certain property with respect to renewable natural gas facilities that are placed in service after 2022 and begin construction before 2025. The 30% ITC to storage projects is subject to the phaseout. The IRA created a PTC of $3/kilogram of green (low emission) hydrogen produced at a facility after 2022 and during the first ten years of commercial operation (or a 30% ITC in lieu of the PTC), provided that construction of the facility begins before 2033. These credits are also subject to certain other requirements. In addition, storage projects and hydrogen facilities claiming an ITC are eligible for a 10 percentage point increase in the ITC rate if the facilities satisfy certain tax credit enhancement requirements. A wind or solar project that provides electricity to a green hydrogen facility may qualify for the PTC or ITC and the hydrogen facility may separately qualify for its own PTC or ITC.
+15
+Table of Content
+s
+For taxable years beginning after 2022, renewable energy tax credits generated during the year can be transferred to an unrelated purchaser for cash, providing an additional path, along with sales of differential membership interests, for developers to monetize the value of renewable energy tax credits.
+Other countries, including Canada, provide for incentives like feed-in-tariffs for renewable energy projects. The feed-in-tariffs promote renewable energy investments by offering long-term contracts to renewable energy producers, typically based on the cost of generation of each technology.
+Other Operations
+Gas Infrastructure Business
+– At December 31, 2023, NextEra Energy Resources had ownership interests in natural gas pipelines, the most significant of which are discussed below, and in oil and gas shale formations located primarily in the Midwest and South regions of the U.S.
+Miles
+of
+Pipeline
+Pipeline
+Location/Route
+Ownership
+Total
+Net Capacity
+(per day)
+Actual/Expected In-Service
+Dates
+Operational:
+Sabal Trail
+(a)
+517
+Southwestern Alabama to Central Florida
+42.5%
+0.43 Bcf
+June 2017
+–
+May 2020
+Florida Southeast Connection
+(a)
+169
+Central Florida to South Florida
+100%
+0.64 Bcf
+June 2017
+Under Construction:
+Mountain Valley Pipeline
+(b)
+303
+Northwestern West Virginia to Southern
+Virginia
+32.8%
+0.66 Bcf
+First Half of 2024
+______________________
+(a) See Note 15 – Contracts for a discussion of transportation contracts with FPL.
+(b) See Note 15 – Contracts for a discussion of a transportation contract with a NextEra Energy Resources subsidiary.
+In December 2023, NEP completed the sale of its ownership interests in a portfolio of natural gas pipelines located in south Texas.
+Rate-Regulated Transmission
+– At December 31, 2023, certain entities within the NEER segment had ownership interests in rate-regulated transmission and related facilities.
+Jurisdiction
+Miles
+Substations
+Kilovolt
+Location
+Rate Regulator
+Ownership
+Actual/Expected In-Service
+Dates
+Operational:
+Southwest Power Pool (SPP)
+466
+18
+69
+–
+115
+Kansas and Oklahoma
+FERC
+100%
+(a)
+1960
+–
+2021
+ERCOT
+354
+11
+345
+Texas
+PUCT
+100%
+2013
+Independent Electricity System Operator (IESO)
+280
+–
+230
+Ontario, Canada
+OEB
+48%
+2022
+CAISO
+223
+9
+200
+(b)
+– 230
+California and Nevada
+FERC
+100%
+1960
+–
+2021
+Other
+90
+5
+161
+–
+345
+Illinois, Indiana, Kentucky, New Hampshire and New York
+FERC
+100%
+(c)
+1953 - 2022
+Under Construction:
+CAISO
+60
+6
+230
+Nevada
+FERC
+100%
+2027
+PJM
+135
+1
+500
+Maryland, Pennsylvania, Virginia and West Virginia
+FERC
+100%
+2028
+SPP
+274
+–
+345
+Kansas, Missouri, New Mexico and Oklahoma
+FERC
+100%
+2024 - 2026
+______________________
+(a) Includes a 26-mile transmission line and 5 substations, in which NEET owns a 65% interest.
+(b) Direct current
+(c) Includes a substation, in which NEET owns an 88.3% interest.
+Customer Supply
+–
+NEER provides commodities-related products to customers, engages in energy-related commodity marketing and trading activities and includes the operations of a retail electricity provider. Through NextEra Energy Resources subsidiary PMI, NEER:
+•
+manages risk associated with fluctuating commodity prices and optimizes the value of NEER's power generation and gas infrastructure production assets through the use of swaps, options, futures and forwards;
+•
+sells output from NEER's plants that is not sold under long-term contracts and procures fuel for use by NEER's generation fleet;
+•
+provides full energy and capacity requirements to customers; and
+•
+markets and trades energy-related commodity products, including power and fuel, as well as marketing and trading services to customers.
+16
+Table of Content
+s
+MARKETS AND COMPETITION
+Electricity markets in the U.S. and Canada are regional and diverse in character. All are extensively regulated, and competition in these markets is shaped and constrained by regulation. The nature of the products offered varies based on the specifics of regulation in each region. Generally, in addition to the natural constraints on pricing freedom presented by competition, NEER may also face specific constraints in the form of price caps, or maximum allowed prices, for certain products. NEER's ability to sell the output of its generation facilities may also be constrained by available transmission capacity, which can vary from time to time and can have a significant impact on pricing.
+The degree and nature of competition is different in wholesale markets than in retail markets. A majority of NEER's revenues are derived from sales of energy, capacity, credits and ancillary products under long-term PPAs to customers located in wholesale electricity markets. Wholesale power generation is a capital-intensive, commodity-driven business with numerous industry participants. NEER primarily competes on the basis of price, but believes the green attributes of NEER's generation assets, its track record of completing projects on schedule, its creditworthiness and its ability to offer and manage reliable customized risk solutions to wholesale customers are competitive advantages. Wholesale power generation is a regional business that is highly fragmented relative to many other commodity industries and diverse in terms of industry structure. As such, there is a wide variation in terms of the capabilities, resources, nature and identity of the companies NEER competes with depending on the market. In wholesale markets, customers' needs are met through a variety of means, including long-term bilateral contracts, standardized bilateral products such as full requirements service and customized supply and risk management services.
+In general, U.S. and Canadian electricity markets encompass three classes of services: energy and related energy credits, capacity and ancillary services. Energy services relate to the physical delivery of power; capacity services relate to the availability of MW capacity of a power generation asset; and ancillary services are other services that relate to power generation assets, such as load regulation and spinning and non-spinning reserves. The exact nature of these classes of services is defined in part by regional tariffs. Not all regions have a capacity services class, and the specific definitions of ancillary services vary from region to region.
+RTOs and ISOs exist throughout much of North America to coordinate generation and transmission across wide geographic areas and to run markets. NEER operates in all RTO and ISO jurisdictions. At December 31, 2023, NEER also had generation facilities with a total net generating capacity of approximately 7,944 MW that fall within reliability regions that are not under the jurisdiction of an established RTO or ISO, including 5,743 MW within the Western Electricity Coordinating Council and 2,119 MW within the SERC Reliability Corporation. Although each RTO and ISO may have differing objectives and structures, some benefits of these entities include regional planning, managing transmission congestion, developing larger wholesale markets for energy and capacity, maintaining reliability and facilitating competition among wholesale electricity providers.
+17
+Table of Content
+s
+NEER has operations that fall within the following RTOs and ISOs
+:
+NEER competes in different regions to differing degrees, but in general it seeks to enter into long-term bilateral contracts for the full output of its generation facilities. At December 31, 2023, approximately 94% of NEER's net generating capacity was committed under long-term contracts. Where long-term contracts are not in effect, NEER sells the output of its facilities into daily spot markets. In such cases, NEER will frequently enter into shorter term bilateral contracts, typically of less than three years duration, to hedge the price risk associated with selling into a daily spot market. Such bilateral contracts, which may be hedges either for physical delivery or for financial (pricing) offset, serve to protect a portion of the revenue that NEER expects to derive from the associated generation facility. Contracts that serve the economic purpose of hedging some portion of the expected revenue of a generation facility but are not recorded as hedges under GAAP are referred to as “non-qualifying hedges” for adjusted earnings purposes. See Management's Discussion – Overview – Adjusted Earnings.
+Certain facilities within the NEER wind and solar generation portfolio produce RECs and other environmental attributes which are typically sold along with the energy from the plants under long-term contracts, or may be sold separately from wind and solar generation not sold under long-term contracts. The purchasing party is solely entitled to the reporting rights and ownership of the environmental attributes.
+While the majority of NEER's revenue is derived from the output of its generation facilities, NEER is also an active competitor in several regions in the wholesale full requirements business and in providing structured and customized power and fuel products and services to a variety of customers. In the full requirements service, typically, the supplier agrees to meet the customer's needs for a full range of products for every hour of the day, at a fixed price, for a predetermined period of time, thereby assuming the risk of fluctuations in the customer's volume requirements.
+Expanded competition in a frequently changing regulatory environment presents both opportunities and risks for NEER. Opportunities exist for the selective acquisition of generation assets and for the construction and operation of efficient facilities that can sell power in competitive markets. NEER seeks to reduce its market risk by having a diversified portfolio by fuel type and location, as well as by contracting for the future sale of a significant amount of the electricity output of its facilities.
+18
+Table of Content
+s
+NEER REGULATION
+The energy markets in which NEER operates are subject to domestic and foreign regulation, as the case may be, including local, state and federal regulation, and other specific rules.
+At December 31, 2023
+, essentially all of NEER's generation facilities
+located in the U.S. have received exempt wholesale generator status as defined under the Public Utility Holding Company Act of 2005. Exempt wholesale generators own or operate a facility exclusively to sell electricity to wholesale customers. They are barred from selling electricity directly to retail customers. While projects with exempt wholesale generator status are exempt from various restrictions, each project must still comply with other federal, state and local laws, including, but not limited to, those regarding siting, construction, operation, licensing, pollution abatement and other environmental laws.
+Additionally, most of the NEER facilities located in the U.S. are subject to FERC regulations and market rules and the NERC's mandatory reliability standards, all of its facilities are subject to environmental laws and the EPA's environmental regulations, and its nuclear facilities are also subject to the jurisdiction of the NRC. See FPL – FPL Regulation for additional discussion of FERC, NERC, NRC and EPA regulations. Rates of NEER's rate-regulated transmission businesses are set by regulatory bodies as noted in Clean Energy and Other Operations – Other Operations – Rate-Regulated Transmission. With the exception of facilities located in ERCOT, the FERC has jurisdiction over various aspects of NEER's business in the U.S., including the oversight and investigation of competitive wholesale energy markets, regulation of the transmission and sale of natural gas, and oversight of environmental matters related to natural gas projects and major electricity policy initiatives. The PUCT has jurisdiction, including the regulation of rates and services, oversight of competitive markets, and enforcement of statutes and rules, over NEER facilities located in ERCOT.
+Certain entities within the NEER segment and their affiliates are also subject to federal and provincial or regional regulations in Canada related to energy operations, energy markets and environmental standards. In Canada, activities related to owning and operating wind and solar projects and participating in wholesale and retail energy markets are regulated at the provincial level. In Ontario, for example, electric generation facilities must be licensed by the OEB and may also be required to complete registrations and maintain market participant status with the IESO, in which case they must agree to be bound by and comply with the provisions of the market rules for the Ontario electricity market as well as the mandatory reliability standards of the NERC.
+In addition, NEER is subject to environmental laws and regulations as described in the NEE Environmental Matters section below. In order to better anticipate potential regulatory changes, NEER continues to actively evaluate and participate in regional market redesigns of existing operating rules for the integration of renewable energy resources and for the purchase and sale of energy commodities.
+NEER HUMAN CAPITAL
+NEER had approximately 7,300 employees at December 31, 2023. NEER has collective bargaining agreements with the IBEW, the Utility Workers Union of Amer
+ica and the Security Police and Fire Professionals of America, which collectively repr
+esent approximately 6% of NEER's employees. The collective bargaining agreements have approximately
+two- to four-year terms and expire between June 2024 and December 2025.
+NEE ENVIRONMENTAL MATTERS
+NEE and its subsidiaries, including FPL, are subject to environmental laws and regulations, including extensive federal, state and local environmental statutes, rules and regulations relating to, among others, air quality, water quality and usage, waste management, wildlife protection and historical resources, for the siting, construction and ongoing operations of their facilities. The U.S. government and certain states and regions, as well as the Government of Canada and its provinces, have taken and continue to take certain actions, such as proposing and finalizing regulations or setting targets or goals, regarding the regulation and reduction of greenhouse gas emissions and the increase of renewable energy generation. On May 23, 2023, the EPA published a proposed rule that would restrict carbon emissions for both new and existing fossil power plants that meet specific criteria. FPL expects any costs to comply with the final rule, if enacted, to qualify for recovery under the environmental clause, subject to FPSC approval. The environmental laws in the U.S., including, among others, the Endangered Species Act (ESA), the Migratory Bird Treaty Act, and the Bald and Golden Eagle Protection Act (BGEPA), provide for the protection of numerous species, including endangered species and/or their habitats, migratory birds, bats and eagles. In 2023, the U.S. Fish and Wildlife Service listed the northern long-eared bat as endangered, with two more species expected to be listed in 2024 and 2025. The environmental laws in Canada, including, among others, the Species at Risk Act, provide for the recovery of wildlife species that are endangered or threatened and the management of species of special concern. Complying with these environmental laws and regulations could result in, among other things, changes in the design and operation of, and additional costs associated with, existing facilities and changes or delays in the location, design, construction and operation of new facilities. Failure to comply could result in fines, penalties, criminal sanctions or injunctions. NEE's rate-regulated subsidiaries expect to seek recovery for compliance costs associated with any new environmental laws and regulations, which recovery for FPL would be through the environmental clause.
+19
+Table of Content
+s
+WEBSITE ACCESS TO SEC FILINGS
+NEE and FPL make their SEC filings, including the annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports, available free of charge on NEE's internet website, www.nexteraenergy.com, as soon as reasonably practicable after those documents are electronically filed with or furnished to the SEC. The information and materials available on NEE's website (or any of its subsidiaries' or affiliates' websites) are not incorporated by reference into this combined Form 10-K.
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+(a)
+Name
+Age
+Position
+Effective Date
+Robert Coffey
+60
+Executive Vice President, Nuclear Division and Chief Nuclear Officer of NEE
+Vice President and Chief Nuclear Officer of FPL
+June 14, 2021
+June 15, 2021
+Terrell Kirk Crews II
+45
+Executive Vice President, Finance and Chief Financial Officer of NEE
+Executive Vice President, Finance and Chief Financial Officer of FPL
+March 1, 2022
+Nicole Daggs
+49
+Executive Vice President, Human Resources and Corporate Services of NEE
+Executive Vice President, Human Resources and Corporate Services of FPL
+January 1, 2024
+Michael H. Dunne
+48
+Treasurer of NEE
+Treasurer of FPL
+Assistant Secretary of NEE
+January 1, 2023
+John W. Ketchum
+53
+Chairman, President and Chief Executive Officer of NEE
+Chairman of FPL
+July 29, 2022
+February 15, 2023
+Rebecca J. Kujawa
+48
+President and Chief Executive Officer of NextEra Energy Resources
+March 1, 2022
+Mark Lemasney
+48
+Executive Vice President, Power Generation Division of NEE
+Executive Vice President, Power Generation Division of FPL
+January 1, 2023
+James M. May
+47
+Vice President, Controller and Chief Accounting Officer of NEE
+March 1, 2019
+Armando Pimentel, Jr.
+61
+President and Chief Executive Officer of FPL
+February 15, 2023
+Ronald R. Reagan
+55
+Executive Vice President, Engineering, Construction and Integrated Supply Chain of NEE
+Vice President, Engineering and Construction of FPL
+January 1, 2020
+March 1, 2019
+Charles E. Sieving
+51
+Executive Vice President, Chief Legal, Environmental and Federal Regulatory Affairs Officer of NEE
+Executive Vice President of FPL
+May 18, 2023
+January 1, 2009
+______________________
+(a)
+Information is as of February 16, 2024. Executive officers are elected annually by, and serve at the pleasure of, their respective boards of directors. Except as noted below, each officer has held his/her present position for five years or more and his/her employment history is continuous. Mr. Coffey served as Vice President, Nuclear for FPL from May 2019 to June 2021 and was Regional Vice President for FPL's southern fleet from January 2018 to May 2019. Mr. Crews served as Vice President, Business Management of NextEra Energy Resources from March 2019 to February 2022 and was Vice President, Controller and Chief Accounting Officer of NEE from
+September 2016 until March 2019
+. Mrs. Daggs served as Vice President, Human Resources for FPL from April 2018 to December 2023. Mr. Dunne served as Vice President Finance of NEE from April 2022 to December 2022. He was previously Managing Director, Global Energy & Power Investment Banking for Bank of America from January 2012 to March 2022. Mr. Ketchum served as President and Chief Executive Officer of NEE from March 2022 to July 2022. He previously served as President and Chief Executive Officer of NextEra Energy Resources from March 2019 to February 2022 and Executive Vice President, Finance and Chief Financial Officer of NEE and FPL from March 2016 to February 2019. Mrs. Kujawa served as Executive Vice President, Finance and Chief Financial Officer of NEE and FPL from February 2019 to February 2022 and Vice President, Business Management of NextEra Energy Resources from March 2012 to February 2019. Mr. Lemasney served as Vice President of Power Generation Division Engineering and Operations Support Services of NEE from November 2018 to December 2022. Mr. May served as Controller of NextEra Energy Resources from April 2015 to February 2019. Mr. Pimentel serves as a member of the Board of Directors of Ameriprise Financial, Inc. since September 2022 and previously served as President and Chief Executive Officer of NextEra Energy Resources from October 2011 to March 2019. Mr. Reagan served as Vice President, Engineering and Construction of NEE from November 2018 to December 2019. Mr. Sieving previously served as Executive Vice President & General Counsel of NEE from December 2008 to May 2023.
+20
+Table of Content
+s
+Item 1A. Risk Factors
+Risks Relating to NEE's and FPL's Business
+The business, financial condition, results of operations and prospects of NEE and FPL are subject to a variety of risks, many of which are beyond the control of NEE and FPL. These risks, whether or not expressly stated with respect to any particular risk factor, as well as additional risks and uncertainties either not presently known or that are currently believed to not be material to the business, may materially adversely affect the business, financial condition, results of operations and prospects of NEE and FPL and may cause actual results of
+NEE and FPL to differ substantially from those that NEE or FPL currently expects or seeks. In that event, the market price for the securities of NEE or FPL could decline. Accordingly, the risks described below should be carefully considered together with the other information set forth in this report and in future reports that NEE and FPL file with the SEC.
+Regulatory, Legislative and Legal Risks
+NEE's and FPL's business, financial condition, results of operations and prospects may be materially adversely affected by the extensive regulation of their business.
+The operations of NEE and FPL are subject to complex and comprehensive federal, state and other regulation. This extensive regulatory framework, portions of which are more specifically identified in the following risk factors, regulates, among other things and to varying degrees, NEE's and FPL's industry, businesses, operations, and rates and cost structures, including: permitting, planning, construction and operation of electric generation, storage, transmission and distribution facilities and natural gas, oil and other fuel production, transportation, processing and storage facilities; acquisitions, disposals, depreciation and amortization of facilities and other assets; decommissioning costs and funding; service reliability; wholesale and retail competition; and commodities trading and derivatives transactions. In their business planning and in the management of their operations, NEE and FPL must address the effects of regulation on their business and any inability or failure to do so adequately could have a material adverse effect on their business, financial condition, results of operations and prospects.
+NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected if they are unable to recover in a timely manner any significant amount of costs, a return on certain assets or a reasonable return on invested capital through base rates, cost recovery clauses, other regulatory mechanisms or otherwise.
+FPL operates as an electric utility and is subject to the jurisdiction of the FPSC over a wide range of business activities, including, among other items, the retail rates charged to its customers through base rates and cost recovery clauses, the terms and conditions of its services, procurement of electricity for its customers and fuel for its plant operations, issuances of securities, and aspects of the siting, planning, construction and operation of its generation plants and transmission and distribution systems for the sale of electric energy. The FPSC has the authority to disallow recovery by FPL of costs that it considers excessive or imprudently incurred, including those incurred to transition to lower carbon emission technology, and to determine the level of return that FPL is permitted to earn on invested capital. The regulatory process, which may be adversely affected by the geopolitical, political, regulatory, operational and economic environment in Florida and elsewhere, limits or could otherwise adversely impact FPL's earnings. The regulatory process also does not provide any assurance as to achievement of authorized or other earnings levels, or that FPL will be permitted to earn an acceptable return on capital investments it wishes to make. NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected if any material amount of costs, a return on certain assets or a reasonable return on invested capital cannot be recovered through base rates, cost recovery clauses, other regulatory mechanisms or otherwise. Certain other subsidiaries of NEE are utilities subject to the jurisdiction of their regulators and are subject to similar risks.
+Regulatory decisions that are important to NEE and FPL may be materially adversely affected by political, regulatory, operational and economic factors.
+The local and national political, regulatory and economic environment has had, and may in the future have, an adverse effect on regulatory decisions with negative consequences for NEE and FPL. These decisions, which may come from any level of government, may require, for example, FPL or NEER to cancel or delay planned development activities, to reduce or delay other planned capital expenditures or to pay for investments or otherwise incur costs that it may not be able to recover through rates or otherwise, each of which could have a material adverse effect on the business, financial condition, results of operations and prospects of NEE and FPL.
+Any reductions or modifications to, or the elimination of, governmental incentives or policies that support utility scale renewable energy, including, but not limited to, tax laws, policies and incentives, RPS and feed-in-tariffs, or the imposition of additional taxes, tariffs, duties or other assessments on renewable energy or the equipment necessary to generate or deliver it, could result in, among other items, the lack of a satisfactory market for the development and/or financing of new renewable energy projects, NEE and FPL abandoning the development of renewable energy projects, a loss of investments in renewable energy projects and reduced project returns, any of which could have a material adverse effect on NEE and FPL's business, financial condition, results of operations and prospects.
+21
+Table of Content
+s
+NEE depends heavily on government policies that support utility scale renewable energy and enhance the economic feasibility of developing and operating wind and solar energy projects in regions in which NEER and FPL operate or plan to develop and operate renewable energy facilities. The federal government, a majority of state governments in the U.S. and portions of Canada provide incentives, such as tax incentives, RPS or feed-in-tariffs, that support or are designed to support the sale of energy from utility scale renewable energy facilities, such as wind and solar energy facilities. The development of renewable energy facilities at acceptable prices has not historically been burdened by actions taken by the U.S. government. However, as a result of budgetary constraints, geopolitical factors, political factors or otherwise, governments from time to time may review their laws and policies that support, or do not overly burden, the development and operation of renewable energy facilities and, instead, consider actions that would make the laws and policies less conducive to the development and operation of renewable energy facilities. Any reductions or modifications to, or the elimination of, governmental incentives or policies that support renewable energy, such as the IRA, or the imposition of additional taxes, tariffs, duties or other assessments on renewable energy or the equipment necessary to generate or deliver it, such as policies in place that limit certain imports from China and other Southeast Asian countries, could result in, among other items, the lack of a satisfactory market for the development and/or financing of new renewable energy projects, NEE and FPL abandoning the development of renewable energy projects, a loss of investments in the projects and reduced project returns, any of which could have a material adverse effect on NEE and FPL's business, financial condition, results of operations and prospects.
+NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected as a result of new or revised laws or regulations or interpretations of these laws and regulations.
+NEE's and FPL's business is influenced by various legislative and regulatory initiatives, including, but not limited to, new or revised laws, including international trade laws, regulations and interpretations, constitutional ballot and regulatory initiatives regarding deregulation or restructuring of the energy industry, regulation of the commodities trading and derivatives markets, and regulation of environmental matters, such as regulation of air emissions, regulation of water consumption and water discharges, and regulation of gas and oil infrastructure operations, as well as associated environmental permitting. Changes in the nature of the regulation of NEE's and FPL's business could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects. NEE and FPL are unable to predict future legislative or regulatory changes, including through constitutional ballot initiatives or changed legal or regulatory interpretations, although any such changes may increase costs and competitive pressures on NEE and FPL, which could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+FPL has limited, but growing, competition in the Florida market for retail electricity customers and is not subject to a RPS. Any changes in Florida law or regulation, whether through new or modified legislation or regulation or through citizen-approved state constitutional ballot initiatives, which increase competition in the Florida retail electricity market, such as government incentives that would further facilitate the installation of solar generation facilities on residential or other rooftops, would permit third-party sales of electricity or would mandate the transition to renewable energy at FPL, could have a material adverse effect on FPL's business, financial condition, results of operations and prospects. There can be no assurance that FPL would be able to respond adequately to such regulatory changes, which could have a material adverse effect on FPL's business, financial condition, results of operations and prospects.
+NEER is subject to FERC rules related to transmission that are designed to facilitate competition in the wholesale market on practically a nationwide basis. NEE cannot predict the impact of changing FERC rules or policies of the RTOs and ISOs, such as rules governing generator interconnection procedures and transmission planning requirements and cost allocation methodologies, or the effect of changes in levels of wholesale supply and demand, which are typically driven by factors beyond NEE's control. There can be no assurance that NEER will be able to respond adequately or sufficiently quickly to such rules and developments, which may impact the ability, timeline and cost of interconnecting new or repowered energy projects to the transmission system and the availability of transmission system capacity to deliver energy products to market, or to any changes that reverse or restrict the competitive restructuring of the energy industry in those jurisdictions in which such restructuring has occurred. Any of these events could have a material adverse effect on NEE's business, financial condition, results of operations and prospects.
+NEE and FPL are subject to numerous environmental laws, regulations and other standards that may result in capital expenditures, increased operating costs and various liabilities, and may require NEE and FPL to limit or eliminate certain operations.
+NEE and FPL are subject to domestic environmental laws, regulations and other standards, including, but not limited to, extensive federal, state and local environmental statutes, rules and regulations relating to air quality, water quality and usage, soil quality, climate change, emissions of greenhouse gases, waste management, hazardous wastes, marine, avian, bat and other wildlife mortality and habitat protection, historical artifact preservation, natural resources, health (including, but not limited to, electric and magnetic fields from power lines and substations), safety and RPS, that could, among other things, prevent or delay the development of power generation, power or natural gas transmission, or other infrastructure projects, restrict or enjoin the output of some existing facilities, limit the availability and use of some fuels required for the production of electricity, require additional pollution control equipment, and otherwise increase costs, increase capital expenditures and limit or eliminate certain
+22
+Table of Content
+s
+operations. Certain subsidiaries of NEE are also subject to foreign environmental laws, regulations and other standards and, as such, are subject to similar risks.
+There are significant capital, operating and other costs associated with compliance with these environmental statutes, rules and regulations, and those costs could be even more significant in the future as a result of new requirements, stricter or more expansive application of existing environmental laws and regulations, and the addition of species, such as additional bat species, to the endangered species list.
+Violations of current or future laws, rules, regulations or other standards could expose NEE and FPL to regulatory and legal proceedings, disputes with, and legal challenges by, governmental entities and third parties, and potentially significant civil fines, criminal penalties and other sanctions, such as restrictions on how NextEra Energy Resources develops, sites and operates wind facilities. These violations could result in, without limitation, litigation regarding property damage, personal injury, common law nuisance and enforcement by citizens or governmental authorities of environmental requirements. For example, one of NextEra Energy Resources' subsidiaries is currently on probation as a result of accidental collisions of eagles into wind turbines at a number of NextEra Energy Resources' wind facilities. If NextEra Energy Resources' subsidiary violates the terms of the probation, or fails to obtain eagle “take” permits under the BGEPA or incidental take permits under the ESA for certain of its wind facilities and additional eagles or listed species, like cave bats, perish in collisions with facility turbines, NextEra Energy Resources or its subsidiaries could face criminal prosecution under these laws.
+NEE's and FPL's business could be negatively affected by federal or state laws or regulations mandating new or additional limits on the production of greenhouse gas emissions.
+Federal or state laws or regulations may be adopted that would impose new or additional limits on the emissions of greenhouse gases, including, but not limited to, carbon dioxide and methane, from electric generation units using fuels, such as natural gas. The potential effects of greenhouse gas emission limits on NEE's and FPL's electric generation units are subject to significant uncertainties based on, among other things, the timing of the implementation of any new requirements, the required levels of emission reductions, the nature of any market-based or tax-based mechanisms adopted to facilitate reductions, the relative availability of greenhouse gas emission reduction offsets, the development of cost-effective, commercial-scale carbon capture and storage technology and supporting regulations and liability mitigation measures, and the range of available compliance alternatives.
+While NEE's and FPL's electric generation portfolio emits greenhouse gases at a lower rate of emissions than most of the U.S. electric generation sector, the results of operations of NEE and FPL could be materially adversely affected to the extent that new federal or state laws or regulations impose any new greenhouse gas emission limits. Any future limits on greenhouse gas emissions could:
+•
+create substantial additional costs in the form of taxes or emissions allowances;
+•
+make some of NEE's and FPL's electric generation units uneconomical to operate in the long term;
+•
+require significant capital investment in carbon capture and storage technology, fuel switching, or the replacement of high-emitting generation facilities with lower-emitting generation facilities; or
+•
+affect the availability or cost of fuel, such as natural gas.
+There can be no assurance that NEE or FPL would be able to completely recover any such costs or investments, which could have a material adverse effect on their business, financial condition, results of operations and prospects.
+Extensive federal regulation of the operations and businesses of NEE and FPL exposes NEE and FPL to significant and increasing compliance costs and may also expose them to substantial monetary penalties and other sanctions for compliance failures.
+NEE's and FPL's operations and businesses are subject to extensive federal regulation, which generally imposes significant and increasing compliance costs on their operations and businesses. Additionally, any actual or alleged compliance failures could result in significant costs and other potentially adverse effects of regulatory investigations, proceedings, settlements, decisions and claims, including, among other items, potentially significant monetary penalties. As an example, under the Energy Policy Act of 2005, NEE and FPL, as owners and operators of bulk-power transmission systems and/or electric generation facilities, are subject to mandatory reliability standards. Compliance with these mandatory reliability standards may subject NEE and FPL to higher operating costs and may result in increased capital expenditures. If FPL or NEE is found not to be in compliance with these standards, they may incur substantial monetary penalties and other sanctions. Both the costs of regulatory compliance and the costs that may be imposed as a result of any actual or alleged compliance failures could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+23
+Table of Content
+s
+Changes in tax laws, guidance or policies, including but not limited to changes in corporate income tax rates, as well as judgments and estimates used in the determination of tax-related asset and liability amounts, could materially adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE's and FPL's provision for income taxes and reporting of tax-related assets and liabilities require significant judgments and the use of estimates. Amounts of tax-related assets and liabilities involve judgments and estimates of the timing and probability of recognition of income, deductions and tax credits, including, but not limited to, estimates for potential adverse outcomes regarding tax positions that have been taken and the ability to utilize tax benefit carryforwards, such as net operating loss and tax credit carryforwards. Actual income taxes could vary significantly from estimated amounts due to the future impacts of, among other things, changes in tax laws, guidance or policies, including changes in corporate income tax rates, the issuance of guidance related to the qualification for renewable energy tax credits, the financial condition and results of operations of NEE and FPL, and the resolution of audit issues raised by taxing authorities. These factors, including the ultimate resolution of income tax matters, may result in material adjustments to tax-related assets and liabilities, which could materially adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE's and FPL's business, financial condition, results of operations and prospects may be materially adversely affected due to adverse results of litigation.
+NEE's and FPL's business, financial condition, results of operations and prospects may be materially affected by adverse results of litigation. Unfavorable resolution of legal or administrative proceedings in which NEE or FPL is involved or other future legal or administrative proceedings may have a material adverse effect on the business, financial condition, results of operations and prospects of NEE and FPL.
+Allegations of violations of law by FPL or NEE have the potential to result in fines, penalties, or other sanctions or effects, as well as cause reputational damage for FPL and NEE, and could hamper FPL’s and NEE’s effectiveness in interacting with governmental authorities.
+FPL’s and NEE’s business and reputation could be adversely affected by allegations that FPL or NEE has violated laws, by any investigations or proceedings that arise from such allegations, or by ultimate determinations of legal violations. For example, media articles have been published that allege, among other things, Florida state and federal campaign finance law violations by FPL. These articles are referenced in a complaint subsequently filed with the Federal Election Commission (FEC) that alleges certain violations of the Federal Election Campaign Act. FPL and NEE cannot guarantee that the FEC complaint process will not ultimately result in a finding that FPL or NEE violated federal campaign finance or other laws, that applicable federal or state governmental authorities may not investigate or take enforcement actions with respect to the allegations or assert that legal violations by FPL or NEE have occurred, or that violations may not ultimately be found by a court of competent jurisdiction or other authorities to have occurred.
+In addition, notwithstanding the completion or pendency of any internal review or investigation by FPL or NEE of any allegations of legal violations, including of the allegations regarding campaign finance laws set forth in the media articles or FEC complaint, FPL and NEE cannot provide assurance that any of the foregoing will not result in the imposition of material fines, penalties, or otherwise result in other sanctions or effects on FPL or NEE, or will not have a material adverse impact on the reputation of NEE or FPL or on the effectiveness of their interactions with governmental regulators or other authorities.
+Development and Operational Risks
+NEE's and FPL's business, financial condition, results of operations and prospects could suffer if NEE and FPL do not proceed with projects under development or are unable to complete the construction of, or capital improvements to, electric generation, transmission and distribution facilities, gas infrastructure facilities or other facilities on schedule or within budget.
+NEE's and FPL's ability to proceed with projects under development and to complete construction of, and capital improvement projects for, their electric generation, transmission and distribution facilities, gas infrastructure facilities and other facilities on schedule and within budget have been, in limited instances, and in the future may be, adversely affected by escalating costs for materials and labor and regulatory compliance, inability to obtain or renew necessary licenses, rights-of-way, permits or other approvals on acceptable terms or on schedule, disputes involving contractors, labor organizations, land owners, governmental entities, environmental groups, Native American and aboriginal groups, lessors, joint venture partners, suppliers and other third parties, negative publicity, transmission interconnection issues, geopolitical factors, supply chain disruptions, inflation, rising interest rates and other factors. For example, the ability of NEE and FPL to develop solar generation facilities is dependent on the international supply chain for solar panels and associated equipment, and governmental or regulatory actions have caused minor, and could in the future cause material, disruptions in the ability of NEE and FPL to acquire solar panels on time and at acceptable costs. If any development project or construction or capital improvement project is not completed, is delayed or is subject to cost overruns, certain associated costs may not be approved for recovery or otherwise be recoverable through regulatory mechanisms that may be available, and NEE and FPL could become obligated to make delay or termination payments or become obligated for other damages under contracts, could experience the loss of tax credits or tax incentives, or delayed or diminished returns, and could be required to write off all or a portion of their investment in the project. Any of these events could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+24
+Table of Content
+s
+NEE and FPL face risks related to project siting, financing, construction, permitting, governmental approvals and the negotiation of project development agreements that may impede their development and operating activities.
+NEE and FPL own, develop, construct, manage and operate electric generation and transmission facilities and natural gas transmission facilities. A key component of NEE's and FPL's growth is their ability to construct and operate generation and transmission facilities to meet customer needs. As part of these operations, NEE and FPL must periodically apply for licenses and permits from various local, state, federal and other regulatory authorities and abide by their respective conditions. Should NEE or FPL be unsuccessful in obtaining necessary licenses or permits on acceptable terms or resolving third-party challenges to such licenses or permits, should there be a delay in obtaining or renewing necessary licenses or permits or should regulatory authorities initiate any associated investigations or enforcement actions or impose related penalties or disallowances on NEE or FPL, NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected. Any failure to negotiate successful project development agreements for new facilities with third parties could have similar results.
+The operation and maintenance of NEE's and FPL's electric generation, transmission and distribution facilities, gas infrastructure facilities and other facilities are subject to many operational risks, the consequences of which could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE's and FPL's electric generation, transmission and distribution facilities, gas infrastructure facilities and other facilities are subject to many operational risks. Operational risks could result in, among other things, lost revenues due to prolonged outages, increased expenses due to monetary penalties or fines for compliance failures or legal claims, liability to third parties for property and personal injury damage or loss of life, a failure to perform under applicable power sales agreements or other agreements and associated loss of revenues from terminated agreements or liability for liquidated damages under continuing agreements, and replacement equipment costs or an obligation to purchase or generate replacement power at higher prices.
+Uncertainties and risks inherent in operating and maintaining NEE's and FPL's facilities include, but are not limited to:
+•
+risks associated with facility start-up operations, such as whether the facility will achieve projected operating performance on schedule and otherwise as planned;
+•
+failures in the availability, acquisition or transportation of fuel or other necessary supplies;
+•
+the impact of unusual or adverse weather conditions and natural disasters, including, but not limited to, hurricanes, tornadoes, extreme temperatures, icing events, wildfires, floods, severe convective storms, earthquakes and droughts;
+•
+performance below expected or contracted levels of output or efficiency;
+•
+breakdown or failure, including, but not limited to, explosions, fires, leaks or other major events, of equipment, transmission or distribution systems or pipelines;
+•
+availability of replacement equipment;
+•
+risks of property damage, human injury or loss of life from energized equipment, hazardous substances or explosions, fires, leaks or other events, especially where facilities are located near populated areas;
+•
+potential environmental impacts of gas infrastructure operations;
+•
+risks associated with potential harm to wildlife;
+•
+availability of adequate water resources and ability to satisfy water intake and discharge requirements;
+•
+inability to identify, manage properly or mitigate equipment defects in NEE's and FPL's facilities;
+•
+use of new or unproven technology;
+•
+risks associated with dependence on a specific type of fuel or fuel source, such as commodity price risk, availability of adequate fuel supply and transportation, and lack of available alternative fuel sources;
+•
+increased competition due to, among other factors, new facilities, excess supply, shifting demand and regulatory changes (such as the passage of the IRA); and
+•
+insufficient insurance, warranties or performance guarantees to cover any or all lost revenues or increased expenses from the foregoing.
+NEE's and FPL's business, financial condition, results of operations and prospects may be negatively affected by a lack of growth, slower growth or a decline in the number of customers or in customer usage.
+Growth in customer accounts and growth of customer usage each directly influence the demand for electricity and the need for additional power generation and power delivery facilities, as well as the need for energy-related commodities, such as natural gas. Customer growth and customer usage are affected by a number of factors outside the control of NEE and FPL, such as mandated energy efficiency measures, demand side management requirements, installation of distributed generation technologies and economic and demographic conditions, such as population changes, job and income growth, housing starts, new business formation, inflation and the overall level of economic activity. A lack of growth, or a decline, in the number of customers or in customer demand for electricity or natural gas and other fuels may cause NEE and FPL to fail to fully realize the anticipated benefits from significant investments and expenditures and could have a material adverse effect on NEE's and FPL's growth, business, financial condition, results of operations and prospects.
+25
+Table of Content
+s
+NEE's and FPL's business, financial condition, results of operations and prospects can be materially adversely affected by weather conditions and related impacts, including, but not limited to, the impact of severe weather.
+Weather conditions directly influence the demand for electricity and natural gas and other fuels and affect the price of energy and energy-related commodities. In addition, severe weather and natural disasters, such as hurricanes, floods, tornadoes, droughts, extreme temperatures, icing events, wildfires, severe convective storms and earthquakes, can be destructive and cause power outages, personal injury and property damage, reduce revenue, affect the availability of fuel and water, and require NEE and FPL to incur additional costs, for example, to restore service and repair damaged facilities, to obtain replacement power, to access available financing sources, to obtain insurance, to pay for any associated injuries and damages and to fund any associated legal matters and compliance penalties. Furthermore, NEE's and FPL's physical plants could be placed at greater risk of damage should changes in the global climate produce unusual variations in temperature and weather patterns, resulting in more intense, frequent and extreme weather events, abnormal levels of precipitation and, particularly relevant to FPL, a change in sea level. FPL operates in the east and lower west coasts of Florida and in northwest Florida, areas that historically have been prone to severe weather events, such as hurricanes. A disruption or failure of electric generation, transmission or distribution systems or natural gas production, transmission, storage or distribution systems in the event of a hurricane, tornado or other severe weather event, or otherwise, could prevent NEE and FPL from operating their business in the normal course and could result in any of the adverse consequences described above. Additionally, the actions taken to address the potential for severe weather such as additional winterizing of critical equipment and infrastructure, modifying or alternating plant operations and expanding load shedding options could result in significant increases in costs. Any of the foregoing could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+At FPL and other businesses of NEE where cost recovery is available, recovery of costs to restore service, to repair damaged facilities or for other actions to address severe weather is or may be subject to regulatory approval, and any determination by the regulator not to permit timely and full recovery of the costs incurred could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+Changes in weather can also affect the production of electricity at power generation facilities, including, but not limited to, NEER's wind and solar facilities. For example, the level of wind resource affects the revenue produced by wind generation facilities. Because the levels of wind and solar resources are variable and difficult to predict, NEER's results of operations for individual wind and solar facilities specifically, and NEE's results of operations generally, may vary significantly from period to period, depending on the level of available resources. To the extent that resources are not available at planned levels, the financial results from these facilities may be less than expected.
+Threats of terrorism and catastrophic events that could result from geopolitical factors, terrorism, cyberattacks, or individuals and/or groups attempting to disrupt NEE's and FPL's business, or the businesses of third parties, may materially adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE and FPL are subject to the potentially adverse operating and financial effects of geopolitical factors, terrorist acts and threats, as well as cyberattacks and other disruptive activities of individuals or groups. There have been cyberattacks and other physical attacks within the energy industry on energy infrastructure such as substations, gas pipelines and related assets in the past and there may be such attacks in the future. In addition, the advancement of artificial intelligence has given rise to added vulnerabilities and potential entry points for cyberattacks. NEE's and FPL's generation, transmission, storage and distribution facilities, information technology systems and other infrastructure facilities and systems could be direct targets of, or otherwise be materially adversely affected by, such activities.
+Geopolitical factors, terrorist acts, cyberattacks or other similar events affecting NEE's and FPL's systems and facilities, or those of third parties on which NEE and FPL rely, could harm NEE's and FPL's businesses by, for example, limiting their ability to generate, purchase, store or transmit power, natural gas or other energy-related commodities, limiting their ability to bill customers and collect and process payments, and delaying their development and construction of new generation, distribution, storage or transmission facilities or capital improvements to existing facilities. These events, and governmental actions in response, could result in a material decrease in revenues, significant additional costs (for example, to repair assets, implement additional security requirements or maintain or acquire insurance), significant fines and penalties, and reputational damage, could materially adversely affect NEE's and FPL's operations (for example, by contributing to disruption of supplies and markets for natural gas, oil and other fuels), and could impair NEE's and FPL's ability to raise capital (for example, by contributing to financial instability and lower economic activity). In addition, the implementation of security guidelines and measures has resulted in and is expected to continue to result in increased costs. Such events or actions may materially adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+The ability of NEE and FPL to obtain insurance and the terms of any available insurance coverage could be materially adversely affected by international, national, state or local events and company-specific events, as well as the financial condition of insurers. NEE's and FPL's insurance coverage does not provide protection against all significant losses.
+Insurance coverage may not continue to be available or may not be available at rates or on terms similar to those presently available to NEE and FPL. The ability of NEE and FPL to obtain insurance and the terms of any available insurance coverage could be materially adversely affected by international, national, state or local events and company-specific events, including
+26
+Table of Content
+s
+impacts of actual or perceived climate-related events, as well as the financial condition of insurers. If NEE or FPL cannot or does not obtain insurance coverage, NEE or FPL may be required to pay costs associated with adverse future events.
+NEE and FPL generally are not fully insured against all significant losses. For example, NEE, including FPL, does not have property insurance coverage for a substantial portion of its transmission and distribution property and natural gas pipeline assets. A loss for which NEE or FPL is not fully insured could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE invests in gas and oil producing and transmission assets through NEER’s gas infrastructure business. The gas infrastructure business is exposed to fluctuating market prices of natural gas, natural gas liquids, oil and other energy commodities. A prolonged period of low gas and oil prices could impact NEER’s gas infrastructure business and cause NEER to delay or cancel certain gas infrastructure projects and could result in certain projects becoming impaired, which could materially adversely affect NEE's business, financial condition, results of operations and prospects.
+Natural gas and oil prices are affected by supply and demand, both globally and regionally. Factors that influence supply and demand include operational issues, natural disasters, weather, political instability, conflicts, new discoveries, technological advances, economic conditions and actions by major oil-producing countries. There can be significant volatility in market prices for gas and oil, and price fluctuations could have a material effect on the financial performance of gas and oil producing and transmission assets. For example, in a low gas and oil price environment, NEER would generate less revenue from its gas infrastructure investments in gas and oil producing properties, and as a result certain investments might become less profitable or incur losses. Prolonged periods of low oil and gas prices could also result in the delay or cancellation of oil and gas production and transmission projects, could cause projects to experience lower returns, and could result in certain projects becoming impaired, which could materially adversely affect NEE's business, financial condition, results of operations and prospects.
+If supply costs necessary to provide NEER's full energy and capacity requirement services are not favorable, operating costs could increase and materially adversely affect NEE's business, financial condition, results of operations and prospects.
+NEER provides full energy and capacity requirements
+services primarily to distribution utilities, which include load-following services and various ancillary services, to satisfy all or a portion of such utilities' power supply obligations to their customers. The supply costs for these transactions may be affected by a number of factors, including, but not limited to, events that may occur after such utilities have committed to supply power, such as weather conditions, transmission constraints, fluctuating prices for, and locational disconnects in, energy and ancillary services, and the ability of the distribution utilities' customers to elect to receive service from competing suppliers. NEER may not be able to recover all of its increased supply costs, which could have a material adverse effect on NEE's business, financial condition, results of operations and prospects.
+Due to the potential for significant volatility in market prices for fuel, electricity and renewable and other energy commodities, NEER's inability or failure to manage properly or hedge effectively the commodity risks within its portfolios could materially adversely affect NEE's business, financial condition, results of operations and prospects.
+There can be significant volatility in market prices for fuel, electricity and renewable and other energy commodities, both in general and across geographies. NEE's inability or failure to manage properly or hedge effectively its assets or positions against changes in commodity prices, volumes, interest rates, counterparty credit risk or other risk measures, based on factors that are either within, or wholly or partially outside of, NEE's control, may materially adversely affect NEE's business, financial condition, results of operations and prospects.
+Reductions in the liquidity of energy markets may restrict the ability of NEE to manage its operational risks, which, in turn, could negatively affect NEE's business, financial condition, results of operations and prospects.
+NEE is an active participant in energy markets. Liquidity in energy markets can be described as the degree to which a product, such as electricity, gas or transmission rights, can be quickly bought or sold without significantly affecting its price and without incurring significant transaction costs. It can be driven in part by the number of active market participants and is an important factor in NEE's ability to manage risks in its participation in these markets. Liquidity in the energy markets can be adversely affected by price volatility, restrictions on the availability of credit, inflation, rising interest rates and other factors, and any reduction in the liquidity of energy markets could have a material adverse effect on NEE's business, financial condition, results of operations and prospects.
+NEE's and FPL's hedging and trading procedures and associated risk management tools may not protect against significant losses.
+NEE and FPL have hedging and trading procedures and associated risk management tools, such as separate but complementary financial, credit, operational, compliance and legal reporting systems, internal controls, management review processes and other mechanisms. NEE and FPL are unable to assure that such procedures and tools will be effective against all potential risks, including, without limitation, employee misconduct or severe weather or operating conditions. If such procedures
+27
+Table of Content
+s
+and tools are not effective, this could have a material adverse effect on NEE's business, financial condition, results of operations and prospects.
+If price movements significantly or persistently deviate from historical behavior, NEE's and FPL's risk management tools associated with their hedging and trading procedures may not protect against significant losses.
+NEE's and FPL's risk management tools and metrics associated with their hedging and trading procedures, such as daily value at risk, earnings at risk, stop loss limits and liquidity guidelines, are based on historical price movements. Due to the inherent uncertainty involved in price movements and potential deviation from historical pricing behavior, NEE and FPL are unable to assure that their risk management tools and metrics will be effective to protect against material adverse effects on their business, financial condition, results of operations and prospects.
+If power transmission or natural gas, nuclear fuel or other commodity transportation facilities are unavailable or disrupted, the ability for subsidiaries of NEE, including FPL, to sell and deliver power or natural gas may be limited.
+Subsidiaries of NEE, including FPL, depend upon power transmission and natural gas, nuclear fuel and other commodity transportation facilities, many of which they do not own. Occurrences affecting the operation of these facilities that may or may not be beyond the control of subsidiaries of NEE, including FPL, (such as geopolitical factors, cyber incidents, physical attacks, severe weather or a generation or transmission facility outage, pipeline rupture, or sudden and significant increase or decrease in wind or solar generation) may limit or halt their ability to sell and deliver power and natural gas, or to purchase necessary fuels and other commodities, which could materially adversely impact NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE and FPL are subject to credit and performance risk from customers, hedging counterparties and vendors.
+NEE and FPL are exposed to risks associated with the creditworthiness and performance of their customers, hedging counterparties and vendors under contracts for the supply of equipment, materials, fuel and other goods and services required for their business operations and for the construction and operation of, and for capital improvements to, their facilities. Adverse conditions in the energy industry or the general economy such as inflation, as well as circumstances of individual customers, hedging counterparties and vendors, may adversely affect the ability of some customers, hedging counterparties and vendors to perform as required under their contracts with NEE and FPL.
+If any vendor or hedging or other counterparty fails to fulfill its contractual obligations, NEE and FPL may need to make arrangements with other counterparties or vendors, which could result in material financial losses, higher costs, untimely completion of power generation facilities and other projects, and/or a disruption of their operations. If a defaulting counterparty is in poor financial condition, NEE and FPL may not be able to recover damages for any contract breach.
+NEE and FPL could recognize financial losses or a reduction in operating cash flows if a counterparty fails to perform or make payments in accordance with the terms of derivative contracts or if NEE or FPL is required to post margin cash collateral under derivative contracts.
+NEE and FPL use derivative instruments, such as swaps, options, futures and forwards, some of which are traded in the OTC markets or on exchanges, to manage their commodity and financial market risks, and for NEE to engage in trading and marketing activities. Any failures by their counterparties to perform or make payments in accordance with the terms of those transactions could have a material adverse effect on NEE's or FPL's business, financial condition, results of operations and prospects. Similarly, any requirement for FPL or NEE to post margin cash collateral under its derivative contracts could have a material adverse effect on its business, financial condition, results of operations and prospects. These risks may be increased during periods of adverse market or economic conditions such as inflation affecting the industry in which NEE and FPL participate.
+NEE and FPL are highly dependent on sensitive and complex information technology systems, and any failure or breach of those systems could have a material adverse effect on their business, financial condition, results of operations and prospects.
+NEE and FPL operate in a highly regulated industry that requires the continuous functioning of sophisticated information technology systems and network infrastructure. Despite NEE's and FPL's implementation of security measures, all of their technology systems are vulnerable to disability, failures or unauthorized access due to such activities. If NEE's or FPL's information technology systems were to fail or be breached, sensitive confidential and other data could be compromised and NEE and FPL could be unable to fulfill critical business functions.
+NEE's and FPL's businesses are highly dependent on NEE's and FPL's ability to process and monitor, on a daily basis, a very large number of transactions, many of which are highly complex and cross numerous and diverse markets. Due to the size, scope, complexity and geographical reach of NEE's and FPL's business, the development and maintenance of information technology systems to keep track of and process information is critical and challenging. NEE's and FPL's operating systems and facilities may fail to operate properly or become disabled as a result of events that are either within, or wholly or partially outside
+28
+Table of Content
+s
+of, their control, such as operator error, severe weather, geopolitical activities, terrorist activities or cyber incidents. Any such failure or disabling event could materially adversely affect NEE's and FPL's ability to process transactions and provide services, and their business, financial condition, results of operations and prospects.
+NEE and FPL add, modify and replace information systems on a regular basis. Modifying existing information systems or implementing new or replacement information systems is costly and involves risks, including, but not limited to, integrating the modified, new or replacement system with existing systems and processes, implementing associated changes in accounting procedures and controls, and ensuring that data conversion is accurate and consistent. Any disruptions or deficiencies in existing information systems, or disruptions, delays or deficiencies in the modification or implementation of new information systems, could result in increased costs, the inability to track or collect revenues and the diversion of management's and employees' attention and resources, and could negatively impact the effectiveness of the companies' control environment, and/or the companies' ability to timely file required regulatory reports.
+NEE and FPL also face the risks of operational failure or capacity constraints associated with the information systems of third parties, including, but not limited to, those who provide power transmission and natural gas transportation services.
+NEE's and FPL's retail businesses are subject to the risk that sensitive customer data may be compromised, which could result in a material adverse impact to their reputation and/or have a material adverse effect on the business, financial condition, results of operations and prospects of NEE and FPL.
+NEE's and FPL's retail businesses require access to sensitive customer data in the ordinary course of business. NEE's and FPL's retail businesses may also need to provide sensitive customer data to vendors and service providers who require access to this information in order to provide services, such as call center services, to the retail businesses. If a significant breach occurred, the reputation of NEE and FPL could be materially adversely affected, customer confidence could be diminished, or customer information could be subject to identity theft. NEE and FPL would be subject to costs associated with the breach and/or NEE and FPL could be subject to fines and legal claims, any of which may have a material adverse effect on the business, financial condition, results of operations and prospects of NEE and FPL.
+NEE and FPL could recognize financial losses as a result of volatility in the market values of derivative instruments and limited liquidity in OTC markets.
+NEE and FPL execute transactions in derivative instruments on either recognized exchanges or via the OTC markets, depending on management's assessment of the most favorable credit and market execution factors. Transactions executed in OTC markets have the potential for greater volatility and less liquidity than transactions on recognized exchanges. As a result, NEE and FPL may not be able to execute desired OTC transactions due to such heightened volatility and limited liquidity.
+In the absence of actively quoted market prices and pricing information from external sources, the valuation of derivative instruments involves management's judgment and use of estimates. As a result, changes in the underlying assumptions or use of alternative valuation methods could affect the reported fair value of these derivative instruments and have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE and FPL may be materially adversely affected by negative publicity.
+From time to time, political and public sentiment may result in a significant amount of adverse press coverage and other adverse public statements affecting NEE and FPL. Adverse press coverage and other adverse statements, whether or not driven by political or public sentiment, may also result in investigations by regulators, legislators and law enforcement officials or in legal claims. Responding to the negative publicity and any resulting investigations and lawsuits, regardless of the ultimate outcome of the proceeding, can divert the time and effort of senior management from NEE's and FPL's business.
+Addressing any adverse publicity, governmental scrutiny or enforcement or other legal proceedings is time consuming and expensive and, regardless of the factual basis for the assertions being made, can have a negative impact on the reputation of NEE and FPL, on the morale and performance of their employees and on their relationships with regulators. It may also have a negative impact on their ability to take timely advantage of various business and market opportunities. The direct and indirect effects of negative publicity, and the demands of responding to and addressing it, may have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE's and FPL's business, financial condition, results of operations and prospects may be adversely affected if FPL is unable to maintain, negotiate or renegotiate franchise agreements on acceptable terms with municipalities and counties in Florida.
+FPL may negotiate franchise agreements with municipalities and counties in Florida to provide electric services within such municipalities and counties, and electricity sales generated pursuant to these agreements represent a very substantial portion of FPL's revenues. If FPL is unable to maintain, negotiate or renegotiate such franchise agreements on acceptable terms, it could contribute to lower earnings and FPL may not fully realize the anticipated benefits from significant investments and expenditures, which could adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+29
+Table of Content
+s
+NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected by work strikes or stoppages and increasing personnel costs.
+Employee strikes or work stoppages could disrupt operations and lead to a loss of revenue and customers. Personnel costs may also increase due to inflationary or competitive pressures on payroll and benefits costs and revised terms of collective bargaining agreements with union employees. These consequences could have a material adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+NEE's ability to successfully identify, complete and integrate acquisitions is subject to significant risks, including, but not limited to, the effect of increased competition for acquisitions resulting from the consolidation of the energy industry.
+NEE is likely to encounter significant competition for acquisition opportunities that may become available as a result of the consolidation of the energy industry. In addition, NEE may be unable to identify attractive acquisition opportunities at favorable prices and to complete and integrate them successfully and in a timely manner.
+Nuclear Generation Risks
+The operation and maintenance of NEE's and FPL's nuclear generation facilities involve environmental, health and financial risks that could result in fines or the closure of the facilities and in increased costs and capital expenditures.
+NEE's and FPL's nuclear generation facilities are subject to environmental, health and financial risks, including, but not limited to, those relating to site storage of spent nuclear fuel, the disposition of spent nuclear fuel, leakage and emissions of tritium and other radioactive elements in the event of a nuclear accident or otherwise, the threat of a terrorist attack or cyber incident and other potential liabilities arising out of the ownership or operation of the facilities. NEE and FPL maintain decommissioning funds and external insurance coverage which are intended to reduce the financial exposure to some of these risks; however, the cost of decommissioning nuclear generation facilities could exceed the amount available in NEE's and FPL's decommissioning funds, and the exposure to liability and property damages could exceed the amount of insurance coverage. If NEE or FPL is unable to recover the additional costs incurred through insurance or, in the case of FPL, through regulatory mechanisms, their business, financial condition, results of operations and prospects could be materially adversely affected.
+In the event of an incident at any nuclear generation facility in the U.S. or at certain nuclear generation facilities in Europe, NEE and FPL could be assessed significant retrospective assessments and/or retrospective insurance premiums as a result of their participation in a secondary financial protection system and nuclear insurance mutual companies.
+Liability for accidents at nuclear power plants is governed by the Price-Anderson Act, which limits the liability of nuclear reactor owners to the amount of insurance available from both private sources and an industry retrospective payment plan. In accordance with this Act, NEE maintains the maximum amount of private liability insurance obtainable, and participates in a secondary financial protection system, which provides liability insurance coverage for an incident at any nuclear reactor in the U.S. Under the secondary financial protection system, NEE is subject to retrospective assessments and/or retrospective insurance premiums, plus any applicable taxes, for an incident at any nuclear reactor in the U.S. or at certain nuclear generation facilities in Europe, regardless of fault or proximity to the incident. Such assessments, if levied, could materially adversely affect NEE's and FPL's business, financial condition, results of operations and prospects.
+NRC orders or new regulations related to increased security measures and any future safety requirements promulgated by the NRC could require NEE and FPL to incur substantial operating and capital expenditures at their nuclear generation facilities and/or result in reduced revenues.
+The NRC has broad authority to impose licensing and safety-related requirements for the operation and maintenance of nuclear generation facilities, the addition of capacity at existing nuclear generation facilities and the construction of new nuclear generation facilities, and these requirements are subject to change. In the event of non-compliance, the NRC has the authority to impose fines and/or shut down a nuclear generation facility, depending upon the NRC's assessment of the severity of the situation, until compliance is achieved. Any of the foregoing events could require NEE and FPL to incur increased costs and capital expenditures, and could reduce revenues.
+Any serious nuclear incident occurring at a NEE or FPL plant could result in substantial remediation costs and other expenses. A major incident at a nuclear facility anywhere in the world could cause the NRC to limit or prohibit the operation or licensing of any domestic nuclear generation facility. An incident at a nuclear facility anywhere in the world also could cause the NRC to impose additional conditions or other requirements on the industry, or on certain types of nuclear generation units, which could increase costs, reduce revenues and result in additional capital expenditures.
+30
+Table of Content
+s
+The
+inability to operate any of NEE's or FPL's nuclear generation units through the end of their respective operating licenses or planned license extensions could have a mater
+ial adverse effect on NEE's and FPL's business, financial condition, results of operations and prospects.
+If any of NEE's or FPL's nuclear generation facilities are not operated for any reason through the life of their respective operating licenses or planned license extensions, NEE or FPL may be required to increase depreciation rates, incur impairment charges and accelerate future decommissioning expenditures, any of which could materially adversely affect their business, financial condition, results of operations and prospects.
+NEE's and FPL's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, and for other purposes. If planned outages last longer than anticipated or if there are unplanned outages, NEE's and FPL's business, financial condition, results of operations and prospects could be materially adversely affected.
+NEE's and FPL's nuclear units are periodically removed from service to accommodate planned refueling and maintenance outages, including, but not limited to, inspections, repairs and certain other modifications as well as to replace equipment. In the event that a scheduled outage lasts longer than anticipated or in the event of an unplanned outage due to, for example, equipment failure, such outages could materially adversely affect NEE's or FPL's business, financial condition, results of operations and prospects.
+Liquidity, Capital Requirements and Common Stock Risks
+Disruptions, uncertainty or volatility in the credit and capital markets, among other factors, may negatively affect NEE's and FPL's ability to fund their liquidity and capital needs and to meet their growth objectives, and can also materially adversely affect the business, financial condition, liquidity, results of operations and prospects of NEE and FPL.
+NEE and FPL rely on access to capital and credit markets as significant sources of liquidity for capital requirements, refinancing activities to support existing debt maturities and other requirements that are not satisfied by operating cash flows. Disruptions, uncertainty or volatility in those capital and credit markets, related to, among others, inflation, rising or sustained higher interest rates and geopolitical events, could increase NEE's and FPL's cost of capital and affect their ability to fund their liquidity and capital needs, to refinance existing indebtedness and to meet their growth objectives. If NEE or FPL is unable to access regularly the capital and credit markets on terms that are reasonable, it may have to delay raising capital, issue shorter-term securities and incur an unfavorable cost of capital, which, in turn, could adversely affect its ability to maintain and grow its business, could contribute to lower earnings and reduced financial flexibility, and could have a material adverse effect on its business, financial condition, liquidity, results of operations and prospects.
+Although NEE's competitive energy and certain other subsidiaries have used non-recourse or limited-recourse, project-specific or other financing in the past, market conditions, changes to regulatory capital requirements and other factors could adversely affect
+the future availability of such financing. The inability of NEE's subsidiaries, including, without limitation, NEECH and its subsidiaries, to access the capital and credit markets to provide project-specific or other financing for electric generation or other facilities or acquisitions on favorable terms, whether because of disruptions or volatility in those markets or otherwise, could necessitate additional capital raising or borrowings by NEE and/or NEECH in the future and there can be no assurance that NEE or NEECH will have the ability to complete such borrowings.
+The inability of subsidiaries that have existing project-specific or other financing arrangements to meet the requirements of various agreements relating to those financings, as well as actions by third parties or lenders, could give rise to a project-specific financing default which, if not cured or waived, might result in the specific project, and potentially in some limited instances its parent companies, being required to repay the associated debt or other borrowings earlier than otherwise anticipated, and if such repayment were not made, the lenders or security holders would generally have rights to foreclose against the project assets and related collateral. Such an occurrence also could result in NEE expending additional funds or incurring additional obligations over the shorter term to ensure continuing compliance with project-specific financing arrangements based upon the expectation of improvement in the project's performance or financial returns over the longer term. Any of these actions could materially adversely affect NEE's business, financial condition, liquidity, results of operations and prospects, as well as the availability or terms of future financings for NEE or its subsidiaries.
+NEE's, NEECH's and FPL's inability to maintain their current credit ratings may materially adversely affect NEE's and FPL's liquidity and results of operations, limit the ability of NEE and FPL to grow their business, and increase interest costs.
+The inability of NEE, NEECH and FPL to maintain their current credit ratings could materially adversely affect their ability to raise capital or obtain credit on favorable terms, which, in turn, could impact NEE's and FPL's ability to grow their businesses and service indebtedness and refinance or repay borrowings, and would likely increase their interest costs. In addition, certain agreements and guarantee arrangements would require posting of additional collateral in the event of a ratings downgrade. Some of the factors that can affect credit ratings are cash flows, liquidity, the amount of debt as a component of total capitalization including rating agencies' treatment of certain indebtedness, NEE's overall business mix and political, legislative
+31
+Table of Content
+s
+and regulatory actions. There can be no assurance that one or more of the ratings of NEE, NEECH and FPL will not be lowered or withdrawn entirely by a rating agency.
+NEE's and FPL's liquidity may be impaired if their credit providers are unable to fund their credit commitments to the companies or to maintain their current credit ratings.
+The inability of NEE's, NEECH's and FPL's credit providers to fund their credit commitments or to maintain their current credit ratings could require NEE, NEECH or FPL, among other things, to renegotiate requirements in agreements, find an alternative credit provider with acceptable credit ratings to meet funding requirements, or post cash collateral and could have a material adverse effect on NEE's and FPL's liquidity.
+Poor market performance and other economic factors could affect NEE's defined benefit pension plan's funded status, which may materially adversely affect NEE's and FPL's business, financial condition, liquidity, results of operations and prospects.
+NEE sponsors a qualified noncontributory defined benefit pension plan for substantially all employees of NEE and its subsidiaries. A decline in the market value of the assets held in the defined benefit pension plan due to poor investment performance or other factors may increase the funding requirements for this obligation.
+NEE's defined benefit pension plan is sensitive to changes in interest rates, since as interest rates decrease, the funding liabilities increase, potentially increasing benefits costs and funding requirements. Any increase in benefits costs or funding requirements may have a material adverse effect on NEE's and FPL's business, financial condition, liquidity, results of operations and prospects.
+Poor market performance and other economic factors could adversely affect the asset values of NEE's and FPL's nuclear decommissioning funds, which may materially adversely affect NEE's and FPL's business, financial condition, liquidity, results of operations and prospects.
+NEE and FPL are required to maintain decommissioning funds to satisfy their future obligations to decommission their nuclear power plants. A decline in the market value of the assets held in the decommissioning funds due to poor investment performance or other factors may increase the funding requirements for these obligations. Any increase in funding requirements may have a material adverse effect on NEE's and FPL's business, financial condition, liquidity, results of operations and prospects.
+Certain of NEE's investments are subject to changes in market value and other risks, which may materially adversely affect NEE's liquidity, financial condition and results of operations.
+NEE holds certain investments where changes in the fair value affect NEE's financial results. In some cases there may be no observable market values for these investments, requiring fair value estimates to be based on other valuation techniques. This type of analysis requires significant judgment and the actual values realized in a sale of these investments could differ materially from those estimated. A sale of an investment below previously estimated value, or other decline in the fair value of an investment, could result in losses or the write-off of such investment, and may have a material adverse effect on NEE's liquidity, financial condition and results of operations.
+NEE may be unable to meet its ongoing and future financial obligations and to pay dividends on its common stock if its subsidiaries are unable to pay upstream dividends or repay funds to NEE.
+NEE is a holding company and, as such, has no material operations of its own. Substantially all of NEE's consolidated assets are held by its subsidiaries. NEE's ability to meet its financial obligations, including, but not limited to, its guarantees, and to pay dividends on its common stock is primarily dependent on its subsidiaries' net income and cash flows, which are subject to the risks of their respective businesses, and their ability to pay upstream dividends or to repay funds to NEE.
+NEE's subsidiaries are separate legal entities and have no independent obligation to provide NEE with funds for its payment obligations. The subsidiaries have financial obligations, including, but not limited to, payment of debt service, which they must satisfy before they can provide NEE with funds. In addition, in the event of a subsidiary's liquidation or reorganization, NEE's right to participate in a distribution of assets is subject to the prior claims of the subsidiary's creditors.
+The dividend-paying ability of some of the subsidiaries is limited by contractual restrictions which are contained in outstanding financing agreements and which may be included in future financing agreements. The future enactment of laws or regulations also may prohibit or restrict the ability of NEE's subsidiaries to pay upstream dividends or to repay funds.
+NEE may be unable to meet its ongoing and future financial obligations and to pay dividends on its common stock if NEE is required to perform under guarantees of obligations of its subsidiaries.
+NEE guarantees many of the obligations of its consolidated subsidiaries, other than FPL, through guarantee agreements with NEECH. These guarantees may require NEE to provide substantial funds to its subsidiaries or their creditors or counterparties at
+32
+Table of Content
+s
+a time when NEE is in need of liquidity to meet its own financial obligations. Funding such guarantees may materially adversely affect NEE's ability to meet its financial obligations or to pay dividends.
+NEP may not be able to access sources of capital on commercially reasonable terms, which would have a material adverse effect on its ability to consummate future acquisitions and on the value of NEE’s limited partner interest in NEP OpCo.
+Through an indirect wholly owned subsidiary, NEE owns a limited partner interest in NEP OpCo. NEP's inability to access capital on commercially reasonable terms when acquisitions, other growth opportunities or capital needs arise could have a material adverse effect on NEP's ability to deliver its cash distributions to its common unitholders, including NEE, and on the value of NEE’s limited partnership interest in NEP OpCo. In addition, NEP's issuance of additional common units or other securities in connection with acquisitions or the conversion of outstanding securities convertible into NEP common units could cause significant common unitholder dilution and reduce cash distributions to its common unitholders, including NEE.
+Disruptions, uncertainty or volatility in the credit and capital markets may exert downward pressure on the market price of NEE's common stock.
+The market price and trading volume of NEE's common stock are subject to fluctuations as a result of, among other factors, general credit and capital market conditions and changes in market sentiment regarding the operations, business and financing strategies of NEE, its subsidiaries and its affiliates, including NEP. As a result, disruptions, uncertainty or volatility in the credit and capital markets may, for example, have a material adverse effect on the market price of NEE's common stock.
+Widespread public health crises and epidemics or pandemics may have material adverse impacts on NEE’s and FPL's business, financial condition, liquidity, results of operations and prospects.
+NEE and FPL are subject to the impacts of widespread public health crises, epidemics and pandemics, including, but not limited to, impacts on the global, national or local economy, capital and credit markets, NEE's and FPL's workforce, customers and suppliers. There is no assurance that NEE's and FPL's businesses will be able to operate without material adverse impacts depending on the nature of the public health crisis, epidemic or pandemic. The ultimate severity, duration and impact of public health crises, epidemics and pandemics cannot be predicted. Additionally, there is no assurance that vaccines, or other treatments, are or will be widely available or effective, or that the public will be willing to participate, in an effort to contain the spread of disease. Actions taken in response to such crises by federal, state and local government or regulatory agencies may have a material adverse impact on NEE's and FPL's business, financial condition, liquidity, results of operations and prospects.
